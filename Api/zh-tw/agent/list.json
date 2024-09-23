@@ -1,0 +1,30 @@
+{
+  "agents": [
+    {
+      "id": 3,
+      "name": "貓又",
+      "full_name": "貓宮 又奈",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "strike",
+      "attribute": "physical",
+      "attack_type": "slash",
+      "img_profile": "https://raw.githubusercontent.com/mrfatworm/ZZZ-Archive-Asset/refs/heads/dev/Asset/Agent/Profile/3.webp",
+      "img_portrait": "",
+      "faction_id": 1
+    },
+    {
+      "id": 4,
+      "name": "安比",
+      "full_name": "安比·德瑪拉",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "stun",
+      "attribute": "electric",
+      "attack_type": "slash",
+      "img_profile": "https://raw.githubusercontent.com/mrfatworm/ZZZ-Archive-Asset/refs/heads/dev/Asset/Agent/Profile/4.webp",
+      "img_portrait": "",
+      "faction_id": 1
+    }
+  ]
+}
