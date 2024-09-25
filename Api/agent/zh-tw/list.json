@@ -9,8 +9,6 @@
       "specialty": "strike",
       "attribute": "physical",
       "attack_type": "slash",
-      "img_profile": "https://raw.githubusercontent.com/mrfatworm/ZZZ-Archive-Asset/refs/heads/dev/Asset/Agent/Profile/3.webp",
-      "img_portrait": "",
       "faction_id": 1
     },
     {
@@ -22,8 +20,6 @@
       "specialty": "stun",
       "attribute": "electric",
       "attack_type": "slash",
-      "img_profile": "https://raw.githubusercontent.com/mrfatworm/ZZZ-Archive-Asset/refs/heads/dev/Asset/Agent/Profile/4.webp",
-      "img_portrait": "",
       "faction_id": 1
     }
   ]
