@@ -30,7 +30,7 @@ jobs:
 
       - name: Upload to Cloudflare R2
         run: |
-          aws s3 sync . s3://${{ secrets.R2_BUCKET_NAME }} --endpoint-url=${{ secrets.R2_ENDPOINT_URL }} --exclude ".git/*" --exclude "awscli-bundle.zip" --exclude "awscli-bundle/*" --exact-timestamps --delete
+          aws s3 sync . s3://${{ secrets.R2_BUCKET_NAME }}/Live --endpoint-url=${{ secrets.R2_ENDPOINT_URL }} --exclude ".git/*" --exclude "awscli-bundle.zip" --exclude "awscli-bundle/*" --exact-timestamps --delete
         env:
           R2_BUCKET_NAME: ${{ secrets.R2_BUCKET_NAME }}
           R2_ENDPOINT_URL: ${{ secrets.R2_ENDPOINT_URL }}
