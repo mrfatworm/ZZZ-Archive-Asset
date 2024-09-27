@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  upload:
+  upload_live_to_r2:
     runs-on: ubuntu-latest
 
     steps:
