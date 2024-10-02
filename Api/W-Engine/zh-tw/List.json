@@ -89,14 +89,14 @@
       "name": "「恆等式」-本格",
       "is_leak": false,
       "rarity": 3,
-      "specialty": "defence"
+      "specialty": "defense"
     },
     {
       "id": 14,
       "name": "「恆等式」-變格",
       "is_leak": false,
       "rarity": 3,
-      "specialty": "defence"
+      "specialty": "defense"
     },
     {
       "id": 15,
@@ -145,7 +145,7 @@
       "name": "正版變身器",
       "is_leak": false,
       "rarity": 4,
-      "specialty": "defence"
+      "specialty": "defense"
     },
     {
       "id": 22,
@@ -166,14 +166,14 @@
       "name": "兔能環",
       "is_leak": false,
       "rarity": 4,
-      "specialty": "defence"
+      "specialty": "defense"
     },
     {
       "id": 25,
       "name": "春日融融",
       "is_leak": false,
       "rarity": 4,
-      "specialty": "defence"
+      "specialty": "defense"
     },
     {
       "id": 26,
@@ -208,7 +208,7 @@
       "name": "比格氣缸",
       "is_leak": false,
       "rarity": 4,
-      "specialty": "defence"
+      "specialty": "defense"
     },
     {
       "id": 31,
@@ -341,7 +341,7 @@
       "name": "維序者-特化型",
       "is_leak": false,
       "rarity": 4,
-      "specialty": "defence"
+      "specialty": "defense"
     }
   ]
 }

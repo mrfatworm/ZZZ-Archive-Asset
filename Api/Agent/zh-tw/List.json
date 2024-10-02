@@ -83,7 +83,7 @@
       "full_name": "本·比格",
       "is_leak": false,
       "rarity": 4,
-      "specialty": "defence",
+      "specialty": "defense",
       "attribute": "fire",
       "attack_type": "strike",
       "faction_id": 3
@@ -215,7 +215,7 @@
       "full_name": "賽斯·洛威爾",
       "is_leak": false,
       "rarity": 4,
-      "specialty": "defence",
+      "specialty": "defense",
       "attribute": "electric",
       "attack_type": "slash",
       "faction_id": 6
