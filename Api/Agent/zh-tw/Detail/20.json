@@ -13,7 +13,7 @@
     "hp": 8250,
     "atk": 683,
     "def": 612,
-    "additional": [
+    "core_skill_enhancements": [
       {
         "name": "攻擊力",
         "value": "+75"
@@ -24,97 +24,7 @@
       }
     ]
   },
-  "level_material": {
-    "skill_ten": [
-      {
-        "id": 1,
-        "amount": 2467500
-      },
-      {
-        "id": 7,
-        "amount": 309
-      },
-      {
-        "id": 20,
-        "amount": 4
-      },
-      {
-        "id": 21,
-        "amount": 32
-      },
-      {
-        "id": 22,
-        "amount": 30
-      },
-      {
-        "id": 62,
-        "amount": 25
-      },
-      {
-        "id": 63,
-        "amount": 75
-      },
-      {
-        "id": 64,
-        "amount": 115
-      },
-      {
-        "id": 152,
-        "amount": 60
-      },
-      {
-        "id": 101,
-        "amount": 9
-      }
-    ],
-    "skill_max": [
-      {
-        "id": 1,
-        "amount": 3705000
-      },
-      {
-        "id": 7,
-        "amount": 309
-      },
-      {
-        "id": 20,
-        "amount": 4
-      },
-      {
-        "id": 21,
-        "amount": 32
-      },
-      {
-        "id": 22,
-        "amount": 30
-      },
-      {
-        "id": 62,
-        "amount": 25
-      },
-      {
-        "id": 63,
-        "amount": 75
-      },
-      {
-        "id": 64,
-        "amount": 250
-      },
-      {
-        "id": 68,
-        "amount": 5
-      },
-      {
-        "id": 152,
-        "amount": 60
-      },
-      {
-        "id": 101,
-        "amount": 9
-      }
-    ]
-  },
-  "skill": {
+  "skills": {
     "basic_attack": [
       {
         "name": "一煞",
@@ -231,5 +141,107 @@
       "name": "奇經八脈",
       "description": "[普通攻擊：醉花月雲轉]的打斷等級大幅提升，招式的暴擊傷害額外提升100%。\n\n青衣發動[普通攻擊：醉花月雲轉]命中敵人時，目標的全屬性傷害抗性降低20%，持續15秒。"
     }
+  ],
+  "level_material": {
+    "skill_ten": [
+      {
+        "id": 1,
+        "amount": 2467500
+      },
+      {
+        "id": 7,
+        "amount": 309
+      },
+      {
+        "id": 20,
+        "amount": 4
+      },
+      {
+        "id": 21,
+        "amount": 32
+      },
+      {
+        "id": 22,
+        "amount": 30
+      },
+      {
+        "id": 62,
+        "amount": 25
+      },
+      {
+        "id": 63,
+        "amount": 75
+      },
+      {
+        "id": 64,
+        "amount": 115
+      },
+      {
+        "id": 152,
+        "amount": 60
+      },
+      {
+        "id": 101,
+        "amount": 9
+      }
+    ],
+    "skill_max": [
+      {
+        "id": 1,
+        "amount": 3705000
+      },
+      {
+        "id": 7,
+        "amount": 309
+      },
+      {
+        "id": 20,
+        "amount": 4
+      },
+      {
+        "id": 21,
+        "amount": 32
+      },
+      {
+        "id": 22,
+        "amount": 30
+      },
+      {
+        "id": 62,
+        "amount": 25
+      },
+      {
+        "id": 63,
+        "amount": 75
+      },
+      {
+        "id": 64,
+        "amount": 250
+      },
+      {
+        "id": 68,
+        "amount": 5
+      },
+      {
+        "id": 152,
+        "amount": 60
+      },
+      {
+        "id": 101,
+        "amount": 9
+      }
+    ]
+  },
+  "suggest_w_engines": [
+    47,
+    38,
+    37,
+    19,
+    20
+  ],
+  "suggest_drives": [
+    5,
+    1,
+    7
   ]
 }
