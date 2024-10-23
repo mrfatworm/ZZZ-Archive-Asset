@@ -342,6 +342,20 @@
       "is_leak": false,
       "rarity": 4,
       "specialty": "defense"
+    },
+    {
+      "id": 50,
+      "name": "奔襲獠牙",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "defense"
+    },
+    {
+      "id": 51,
+      "name": "灼心搖壺",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "anomaly"
     }
   ]
 }

@@ -153,6 +153,13 @@
       "is_leak": false,
       "rarity": 5,
       "attribute": "physical"
+    },
+    {
+      "id": 23,
+      "name": "赤紅莫庫斯",
+      "is_leak": false,
+      "rarity": 5,
+      "attribute": "physical"
     }
   ]
 }
