@@ -1,0 +1,74 @@
+{
+  "drives": [
+    {
+      "id": 1,
+      "name": "Swing Jazz",
+      "is_leak": false
+    },
+    {
+      "id": 2,
+      "name": "Chaotic Metal",
+      "is_leak": false
+    },
+    {
+      "id": 3,
+      "name": "Hormone Punk",
+      "is_leak": false
+    },
+    {
+      "id": 4,
+      "name": "Fanged Metal",
+      "is_leak": false
+    },
+    {
+      "id": 5,
+      "name": "Shockstar Disco",
+      "is_leak": false
+    },
+    {
+      "id": 6,
+      "name": "Thunder Metal",
+      "is_leak": false
+    },
+    {
+      "id": 7,
+      "name": "Woodpecker Electro",
+      "is_leak": false
+    },
+    {
+      "id": 8,
+      "name": "Soul Rock",
+      "is_leak": false
+    },
+    {
+      "id": 9,
+      "name": "Puffer Electro",
+      "is_leak": false
+    },
+    {
+      "id": 10,
+      "name": "Inferno Metal",
+      "is_leak": false
+    },
+    {
+      "id": 11,
+      "name": "Freedom Blues",
+      "is_leak": false
+    },
+    {
+      "id": 12,
+      "name": "Polar Metal",
+      "is_leak": false
+    },
+    {
+      "id": 13,
+      "name": "Proto Punk",
+      "is_leak": false
+    },
+    {
+      "id": 14,
+      "name": "Chaos Jazz",
+      "is_leak": false
+    }
+  ]
+}
