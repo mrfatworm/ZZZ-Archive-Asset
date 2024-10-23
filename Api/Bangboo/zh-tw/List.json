@@ -11,49 +11,49 @@
       "id": 2,
       "name": "巴特勒",
       "is_leak": false,
-      "rarity": 4,
+      "rarity": 5,
       "attribute": "physical"
     },
     {
       "id": 3,
       "name": "艾米莉安",
       "is_leak": false,
-      "rarity": 4,
+      "rarity": 5,
       "attribute": "physical"
     },
     {
       "id": 4,
       "name": "阿全",
       "is_leak": false,
-      "rarity": 4,
+      "rarity": 5,
       "attribute": "physical"
     },
     {
       "id": 5,
       "name": "左輪布",
       "is_leak": false,
-      "rarity": 4,
+      "rarity": 5,
       "attribute": "physical"
     },
     {
       "id": 6,
       "name": "共鳴布",
       "is_leak": false,
-      "rarity": 4,
+      "rarity": 5,
       "attribute": "ether"
     },
     {
       "id": 7,
       "name": "插頭布",
       "is_leak": false,
-      "rarity": 4,
+      "rarity": 5,
       "attribute": "electric"
     },
     {
       "id": 8,
       "name": "飆速布",
       "is_leak": false,
-      "rarity": 4,
+      "rarity": 5,
       "attribute": "fire"
     },
     {
@@ -67,7 +67,7 @@
       "id": 10,
       "name": "鯊牙布",
       "is_leak": false,
-      "rarity": 4,
+      "rarity": 5,
       "attribute": "ice"
     },
     {
@@ -151,7 +151,7 @@
       "id": 22,
       "name": "阿崔巡查",
       "is_leak": false,
-      "rarity": 4,
+      "rarity": 5,
       "attribute": "physical"
     }
   ]
