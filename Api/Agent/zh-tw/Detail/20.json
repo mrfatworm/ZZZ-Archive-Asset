@@ -15,6 +15,10 @@
     "def": 612,
     "core_skill_enhancements": [
       {
+        "name": "衝擊力",
+        "value": "118"
+      },
+      {
         "name": "攻擊力",
         "value": "+75"
       },
