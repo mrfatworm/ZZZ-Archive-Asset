@@ -232,15 +232,23 @@
     {
       "id": 41,
       "rarity": 5
+    },
+    {
+      "id": 44,
+      "rarity": 4
     }
   ],
   "suggest_drives": [
+    {
+      "id": 11,
+      "suit": 4
+    },
     {
       "id": 1,
       "suit": 4
     },
     {
-      "id": 5,
+      "id": 2,
       "suit": 2
     },
     {

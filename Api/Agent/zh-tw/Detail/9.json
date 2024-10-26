@@ -238,15 +238,15 @@
   },
   "suggest_w_engines": [
     {
+      "id": 29,
+      "rarity": 4
+    },
+    {
       "id": 36,
       "rarity": 5
     },
     {
       "id": 32,
-      "rarity": 4
-    },
-    {
-      "id": 29,
       "rarity": 4
     }
   ],
@@ -257,6 +257,10 @@
     },
     {
       "id": 7,
+      "suit": 2
+    },
+    {
+      "id": 1,
       "suit": 2
     }
   ]

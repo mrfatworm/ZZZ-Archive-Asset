@@ -230,6 +230,10 @@
   },
   "suggest_w_engines": [
     {
+      "id": 37,
+      "rarity": 5
+    },
+    {
       "id": 43,
       "rarity": 4
     }

@@ -222,18 +222,26 @@
   },
   "suggest_w_engines": [
     {
-      "id": 50,
-      "rarity": 5
+      "id": 30,
+      "rarity": 4
     },
     {
-      "id": 30,
+      "id": 24,
       "rarity": 4
     }
   ],
   "suggest_drives": [
     {
-      "id": 8,
+      "id": 11,
       "suit": 4
+    },
+    {
+      "id": 1,
+      "suit": 4
+    },
+    {
+      "id": 8,
+      "suit": 2
     },
     {
       "id": 1,
