@@ -1,0 +1,24 @@
+{
+  "id": 16,
+  "name": "淚眼布",
+  "is_leak": false,
+  "rarity": 4,
+  "attribute": "fire",
+  "basic_data": {
+    "hp": 3827,
+    "atk": 6198,
+    "def": 723
+  },
+  "active_skill": {
+    "name": "拉環爆彈",
+    "description": "招式發動時，向敵人投擲炸彈，造成火屬性傷害並累積火屬性異常積蓄值。\n\n傷害倍率：532%\n失衡倍率：311%\n冷卻時間14秒"
+  },
+  "additional_ability": {
+    "name": "熱量累積",
+    "description": "隊伍中包含至少2名[火屬性]角色時觸發：\n[邦布連攜技]累積的屬性異常積蓄值提升120％。"
+  },
+  "chain_attack": {
+    "name": "驚爆禮物",
+    "description": "對目標投擲炸彈，造成火屬性傷害並累積大量火屬性異常積蓄值。\n\n傷害倍率：1318%\n失衡倍率：188%"
+  }
+}

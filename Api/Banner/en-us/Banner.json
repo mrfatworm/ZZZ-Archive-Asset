@@ -1,7 +1,7 @@
 {
-    "banner_id": 1,
-    "title": "The app is still under development. If you encounter any issues, please feel free to report them to us.",
-    "url": "https://github.com/mrfatworm/ZZZ-Archive",
-    "level": "warning",
-    "ignorable": true
+  "banner_id": 1,
+  "title": "The app is still under development. If you encounter any issues, please feel free to report them to us.",
+  "url": "https://github.com/mrfatworm/ZZZ-Archive",
+  "level": "warning",
+  "ignorable": true
 }

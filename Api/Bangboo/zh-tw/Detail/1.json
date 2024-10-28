@@ -1,0 +1,46 @@
+{
+  "id": 1,
+  "name": "企鵝布",
+  "is_leak": false,
+  "rarity": 4,
+  "attribute": "ice",
+  "basic_data": {
+    "hp": 3827,
+    "atk": 6198,
+    "def": 723
+  },
+  "active_skill": {
+    "name": "冰刀舞",
+    "description": "招式發動時，舞動冰刀對敵人進行連續斬擊，造成冰屬性傷害並累積冰屬性異常積蓄值。\n\n傷害倍率：877%\n失衡倍率：513%\n冷卻時間20秒"
+  },
+  "additional_ability": {
+    "name": "乾冰場地",
+    "description": "隊伍中存在2名或以上[冰屬性]角色時觸發：\n[邦布連攜技]累積的屬性異常積蓄值提升120％。"
+  },
+  "chain_attack": {
+    "name": "冰暴迴旋",
+    "description": "對目標進行持續斬擊，造成冰屬性傷害並累積冰屬性異常積蓄值。\n\n傷害倍率：1818%\n失衡倍率：260%"
+  },
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 500000
+    },
+    {
+      "id": 16,
+      "amount": 150
+    },
+    {
+      "id": 50,
+      "amount": 4
+    },
+    {
+      "id": 51,
+      "amount": 32
+    },
+    {
+      "id": 52,
+      "amount": 30
+    }
+  ]
+}

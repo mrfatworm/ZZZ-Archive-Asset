@@ -8,7 +8,7 @@
   "attribute": "ice",
   "attack_type": "slash",
   "faction_id": 5,
-  "agent_background":"N/A",
+  "agent_background": "N/A",
   "basic_data": {
     "hp": 8025,
     "atk": 590,
