@@ -3,72 +3,100 @@
     {
       "id": 1,
       "name": "Swing Jazz",
-      "is_leak": false
+      "is_leak": false,
+      "piece_set_two": "Energy Regen increases by 20%.",
+      "piece_set_four": "Launching a Chain Attack or Ultimate increases all squad members' DMG by 15% for 12s. Passive effects of the same name do not stack."
     },
     {
       "id": 2,
       "name": "Chaotic Metal",
-      "is_leak": false
+      "is_leak": false,
+      "piece_set_two": "Increases Ether DMG by 10%",
+      "piece_set_four": "Whenever a squad member inflicts Corruption on an enemy, that enemy takes 18% more DMG for 12s. Passive effects of the same name do not stack."
     },
     {
       "id": 3,
       "name": "Hormone Punk",
-      "is_leak": false
+      "is_leak": false,
+      "piece_set_two": "Increases ATK by 10%.",
+      "piece_set_four": "Upon entering or switching into combat, the equipper has their ATK increased by 25% for 8s. This effect can be triggered once every 20s."
     },
     {
       "id": 4,
       "name": "Fanged Metal",
-      "is_leak": false
+      "is_leak": false,
+      "piece_set_two": "Increases Physical DMG by 10%.",
+      "piece_set_four": "Whenever a squad member inflicts Assault on an enemy, the equipper deals 35% additional DMG to the target for 12s."
     },
     {
       "id": 5,
       "name": "Shockstar Disco",
-      "is_leak": false
+      "is_leak": false,
+      "piece_set_two": "Increases Impact by 6%.",
+      "piece_set_four": "Basic Attacks, Dash Attacks, Dodge Counter, Special Attacks, and EX Special Attacks inflict 15% more Daze upon the main target."
     },
     {
       "id": 6,
       "name": "Thunder Metal",
-      "is_leak": false
+      "is_leak": false,
+      "piece_set_two": "Increases Electric DMG by 10%.",
+      "piece_set_four": "As long as an enemy in combat is Shocked, the equipper's ATK is increased by 27%."
     },
     {
       "id": 7,
       "name": "Woodpecker Electro",
-      "is_leak": false
+      "is_leak": false,
+      "piece_set_two": "Increases CRIT Rate by 8%.",
+      "piece_set_four": "Triggering a critical hit with a Basic Attack, Dodge Counter, or EX Special Attack increases the equipper's ATK by 9% for 6s. The buff duration for different skills are calculated seperately."
     },
     {
       "id": 8,
       "name": "Soul Rock",
-      "is_leak": false
+      "is_leak": false,
+      "piece_set_two": "Increases DEF by 16%.",
+      "piece_set_four": "Upon receiving an enemy attack and losing HP, the equipper takes 40% less DMG for 2.5s. This effect can trigger once every 15s."
     },
     {
       "id": 9,
       "name": "Puffer Electro",
-      "is_leak": false
+      "is_leak": false,
+      "piece_set_two": "Increases PEN Ratio by 8%.",
+      "piece_set_four": "Ultimate DMG increases by 20%. Launching an Ultimate increases the equipper's ATK by 15% for 12s."
     },
     {
       "id": 10,
       "name": "Inferno Metal",
-      "is_leak": false
+      "is_leak": false,
+      "piece_set_two": "Increases Fire DMG by 10%.",
+      "piece_set_four": "Upon hitting a Burning enemy, the equipper's CRIT Rate is increased by 28% for 8s."
     },
     {
       "id": 11,
       "name": "Freedom Blues",
-      "is_leak": false
+      "is_leak": false,
+      "piece_set_two": "Increases Anomaly Proficiency by 30.",
+      "piece_set_four": "When an EX Special Attack hits an enemy, reduce the target's Anomaly Buildup RES to the equipper's Attribute by 35% for 8s. This effect does not stack with others of the same attribute."
     },
     {
       "id": 12,
       "name": "Polar Metal",
-      "is_leak": false
+      "is_leak": false,
+      "piece_set_two": "Increases Ice DMG by 10%.",
+      "piece_set_four": "Basic Attack and Dash Attack DMG increases by 28%. Whenever a squad member Freezes or Shatters an enemy, the buff further increases by 28% for 12s."
     },
     {
       "id": 13,
       "name": "Proto Punk",
-      "is_leak": false
+      "is_leak": false,
+      "piece_set_two": "Shield effect +15%",
+      "piece_set_four": "When any squad member triggers a Defensive Assist or Evasive Assist, all squad members deal 15% increased DMG, lasting 10s. Passive effects of the same name do not stack."
     },
     {
       "id": 14,
       "name": "Chaos Jazz",
-      "is_leak": false
+      "is_leak": false,
+      "piece_set_two": "Anomaly Proficiency +30",
+      "piece_set_four": "Fire DMG and Electric DMG are increased by 15%. When off-field, DMG dealt by EX Special Attacks and Assist Attacks is increased by 20%. When the character switches back onto the field, this buff continues for 5s. The lasting effect can be triggered once every 7.55."
     }
   ]
 }
