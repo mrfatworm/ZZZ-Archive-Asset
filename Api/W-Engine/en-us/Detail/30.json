@@ -1,16 +1,16 @@
 {
   "id": 30,
-  "name": "比格氣缸",
+  "name": "Big Cylinder",
   "is_leak": false,
   "rarity": 4,
   "specialty": "defense",
-  "background": "超大功率的援護型音擎，本在其內部額外加裝了不斷低聲轟鳴著的重油氣缸，其功率足以為重工機械提供動力。雖然重量驚人，常人甚至無法將其拿起來，但對於本來說，這正好能作為他柱子的配重球。\n\n「放心吧，配重位置和抗衝擊係數我都精確到小數點後四位計算過了，不會影響武器效能的。」——本，說完這句話後他又拿出小本子驗算了一遍",
+  "background": "This powerful protection-type W-Engine, characterized by thick oil engines that ceaselessly roar inside it, can even provide sufficient power for heavy machinery. Although its weight is so immense that ordinary people would not be able to lift it, it is just right for Ben to use it as a counterweight ball for his concrete pillar.\n\n\"Don't worry, I've calculated the counterweight position and impact resistance factor down to four decimal places. It won't impact weapon performance.\" — Ben, before taking out his notebook to check over the calculations yet again",
   "atk": 624,
   "stat": {
-    "name": "防禦力",
+    "name": "DEF",
     "value": "40%"
   },
-  "skill": "受到的傷害降低7.5%/8.5%/9.5%/10.5%/12%；受到敵方攻擊後，下一次攻擊命中敵人時，額外造成裝備者600%/690%/780%/870%/960%防禦力的傷害，且必定觸發暴擊，[]秒內最多觸發一次。",
+  "skill": "Reduces DMG taken by 7.5%/8.5%/9.5%/10.5%/12%. After being attacked, the next attack to hit an enemy will trigger a critical hit and deal 600%/690%/780%/870%/960% of the equipper's DEF as additional DMG. This effect can be triggered once every 7.5s.",
   "level_material": [
     {
       "id": 1,

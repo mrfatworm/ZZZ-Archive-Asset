@@ -1,16 +1,16 @@
 {
   "id": 24,
-  "name": "兔能環",
+  "name": "Bunny Band",
   "is_leak": false,
   "rarity": 4,
   "specialty": "defense",
-  "background": "裝飾有毛絨兔子的特型音擎。雖然這些「兔子」只是被製作出來的擬真玩偶，但即使是最兇殘的盜洞客，在休息時摸摸兔子，也能明顯緩解壓力，增強自身的戰鬥表現。該系列音擎有許多類似款式：攜帶式兔子、摺疊兔子、無毛兔子……總有一款會讓你無法拒絕。",
+  "background": "A special W-Engine decorated with a fluffy bunny. Although it is a mere imitation of the real animal, even the fiercest of Hollow Raiders can relieve stress by petting their bunnies while taking a break, which enhances their combat performance. There are many similar models in this series of W-Engines: a portable bunny, a foldable bunny, a furless bunny... Everyone can find one they will not be able to refuse.",
   "atk": 594,
   "stat": {
     "name": "防禦力",
     "value": "40%"
   },
-  "skill": "生命值上限提升8%/9.2%/10.4%/11.6/12.8%%；擁有護盾時，裝備者的攻擊力提升10%/11.5%/13%/14.5%/16%。",
+  "skill": "Increases Max HP by 8%/9.2%/10.4%/11.6/12.8%. Increases the equipper's ATK by 10%/11.5%/13%/14.5%/16% when they are shielded.",
   "level_material": [
     {
       "id": 1,

@@ -1,16 +1,16 @@
 {
   "id": 26,
-  "name": "聚寶箱",
+  "name": "The Vault",
   "is_leak": false,
   "rarity": 4,
   "specialty": "support",
-  "background": "高CP值的儲能型音擎，在被妮可改造了內部空間後，平時也可當做儲物箱使用。雖然裡面的金幣都是假貨，但偶爾可以唬住貪心的盜洞客；或是更乾脆一點——直接丟出去砸暈他們。\n\n「很痛吧？厲害吧？哼哼，這就叫金錢的力量！」——妮可，擊倒敵人後的炫耀",
+  "background": "A cost-effective W-Engine that focuses on energy storage. After Nicole modified its internal space, it can now be used as a storage box. While the gold coins stored inside are fake, they may catch greedy Hollow Raiders off guard. Or rather, the operator can simply toss the heavy coins at them and knock them out. \"Hurts, doesn't it? Impressive, right? Hmph, that's just what money can do!\" — Nicole, gloating after defeating an enemy",
   "atk": 624,
   "stat": {
     "name": "Energy Regen",
     "value": "50%"
   },
-  "skill": "[強化特殊技]、[連攜技]或[終結技]造成以太傷害時，全隊對目標造成的傷害提升15%/17.5%/20%/22%/24%%，裝備者的能量自動回復提升0.5/0.58/0.65/0.72/0.8點/秒，持續2秒，同名被動效果之間不可疊加。",
+  "skill": "Dealing Ether DMG using an EX Special Attack, Chain Attack, or Ultimate increases all squad members' DMG against the target by 15%/17.5%/20%/22%/24% and increases the equipper's Energy Regen by 0.5/0.58/0.65/0.72/0.8/s for 2s. Passive effects of the same name do not stack.",
   "level_material": [
     {
       "id": 1,

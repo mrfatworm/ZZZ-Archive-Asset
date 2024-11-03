@@ -1,16 +1,16 @@
 {
   "id": 48,
-  "name": "淬鋒鉗刺",
+  "name": "Sharpened Stinger",
   "is_leak": false,
   "rarity": 5,
   "specialty": "anomaly",
-  "background": "獲取途徑不明的高危險級音擎，由簡•杜本人親手改裝，兼顧物理殺傷力和異常觸及。內載能量運轉核心確保異常觸發效果，外部的所有尖銳部分則已經反覆打磨，確保能在近身格鬥中造成出其不意的撕裂傷害。\n\n「難道要和以骸講究決鬥禮儀？用最快的方式結束它們的痛苦，還不夠禮貌嗎~」–簡，面對「戰鬥手段是否過於殘忍」的質疑時忍不住發笑",
+  "background": "A deadly W-Engine from unknown sources, modified personally by Jane Doe with the intent to deal severe physical damage and Anomaly. The power circulation system within ensures the affliction of Anomalies and the edges of the exterior have been honed until they're razor-sharp to inflict unexpected tearing damage.\n\n\"What, am I meant to adhere to duel etiquette with an Ethereal? Isn't it polite to end its pain in the quickest way possible?\" —Jane, in response to \"aren't your combat techniques a little too cruel\"",
   "atk": 713,
   "stat": {
     "name": "Anomaly Mastery",
     "value": "90"
   },
-  "skill": "發動[衝刺攻擊]時，獲得1層[獵意]，每層[獵意]使裝備者造成的物理傷害提升12%/15%/18%/21%/24%，最多疊加3層，持續10秒，0.5秒內最多觸發一次，重複觸發時重置持續時間。進入接戰狀態或觸發[極限閃避]時，直接獲得3層[獵意]。[獵意]疊加至層數上限後, 裝備者的屬性異常積蓄效率提升40%/50%/60%/70%/80%。",
+  "skill": "Upon activating a Dash Attack, gain 1 stack of Predatory Instinct. Each stack of Predatory Instinct increases the equipper's Physical DMG by 12%/15%/18%/21%/24% for 10s, stacking up to 3 times. This effect can trigger once every 0.5s and repeated triggers reset the duration. When entering combat or triggering Perfect Dodge, gain 3 stacks of Predatory Instinct. While Predatory Instinct is at maximum stacks, the equipper's Anomaly Buildup Rate increases by 40%/50%/60%/70%/80%.",
   "level_material": [
     {
       "id": 1,

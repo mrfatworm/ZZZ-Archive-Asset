@@ -1,16 +1,16 @@
 {
   "id": 47,
-  "name": "玉壺青冰",
+  "name": "Ice-Jade Teapot",
   "is_leak": false,
   "rarity": 5,
   "specialty": "stun",
-  "background": "參考「 鈺偶 」的戰鬥方式與能力，為其量身訂製的擊破型音擎。其儲能內蘊，衍化後衝擊於外。\n質地模擬古文明追捧的珍貴工藝，燒成則溫潤清雅，碎裂則剛硬銳利。壺中神鳥花紋獨特、如名窯冰裂……但其實是手工繪製的。\n\n「保温效果很好，在空洞中也可以隨時喝上熱水。」一一青衣，面對研究者回訪時認真講述意見",
+  "background": "A custom stun W-Engine made for an Automaton referencing the combat style and abilities of one. Energy is stored within, then lashes outwards upon conversion. The texture seeks to imitate fine artistry that was once highly sought after in ancient civilizations: Burn to procure what is sleek and elegant, shatter to create what is unyielding and sharp; this heat-proof pot bears a sacred bird shape with, as its name suggests, a unique pattern of ice-cracked celadon... but actually that pattern was drawn on.\n\n\"It fares well in preserving temperature, and I can drink hot water whenever I need even in a Hollow.\" —Qingyi, giving her honest and carefully contemplated review.",
   "atk": 713,
   "stat": {
     "name": "Impact",
     "value": "18%"
   },
-  "skill": "[普通攻擊]命中敵人時，裝備者的衝擊力提升0.7％/0.88%/1.05%/1.22%/1.4%，最多疊加30層，持續8秒，每層效果單獨結算持續時間。裝備者的衝擊力大於等於15時，[普通攻撃]、[衝刺攻擊]和[閃避反擊]造成的傷害提升20％/23%/26%/29%/32%。",
+  "skill": "When a Basic Attack hits an enemy, gain 1 stack of Tea-riffic. Each stack of Tea-riffic increases the user's Impact by 0.7％/0.88%/1.05%/1.22%/1.4%, stacking up to 30 times, and lasting for 8s. The duration of each stack is calculated separately. Upon acquiring Tea-riffic, if the equipper possesses stacks of Tea-riffic greater than or equal to 15, all squad members' DMG is increased by 20％/23%/26%/29%/32% for 10s. Passive effects of the same name do not stack.",
   "level_material": [
     {
       "id": 1,

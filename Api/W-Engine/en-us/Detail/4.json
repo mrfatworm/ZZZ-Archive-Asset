@@ -1,16 +1,16 @@
 {
   "id": 4,
-  "name": "「殘響」-I型",
+  "name": "[Reverb] Mark I",
   "is_leak": false,
   "rarity": 3,
   "specialty": "support",
-  "background": "內建有聲波產生器的特製音擎，可將收集到的能量轉化為高穿透性次聲波，增強作戰時的破壞力。不過該音擎的特殊功能需要提前蓄能才可使用。而蓄能的第一步，即是揮霍掉現有的能量。",
+  "background": "This special W-Engine features a built-in sonic generator that converts collected energy into penetrating infrasound waves, thereby boosting its damage output. However, to activate this function, the operator needs to charge up enough power, and the first step of charging up is to use up any remaining energy in the W-Engine.",
   "atk": 475,
   "stat": {
-    "name": "攻擊力",
+    "name": "ATK",
     "value": "20%"
   },
-  "skill": "發動[強化特殊技]時，全隊衝擊力提升8%/9%/10%/11%/12%，持續10秒，20秒內最多觸發一次，同名被動效果之間不可疊加。",
+  "skill": "Launching an EX Special Attack increases all squad members' Impact by 8%/9%/10%/11%/12% for 10s. This effect can trigger every 20s. Passive effects of the same name do not stack.",
   "level_material": [
     {
       "id": 1,

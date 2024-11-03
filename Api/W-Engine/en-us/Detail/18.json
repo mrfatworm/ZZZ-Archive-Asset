@@ -1,16 +1,16 @@
 {
   "id": 18,
-  "name": "星徽引擎",
+  "name": "Starlight Engine",
   "is_leak": false,
   "rarity": 4,
   "specialty": "attack",
-  "background": "採用了特殊以太材料的輸出型音擎，在受到衝擊時可以緩慢積蓄能量，迅速提高自身輸出功率。雖然帶上它並不能變身星徽騎士，但裝備者在面臨絕境時，心底總會湧現莫名的勇氣。",
+  "background": "A damage-type W-Engine made of special Ether materials. When its operator is attacked, it builds up energy and boosts its damage output. Although it does not grant the operator the power to transform into a Starlight Knight, it provides a surge of courage when the operator is in dire situations.",
   "atk": 594,
   "stat": {
-    "name": "攻擊力",
+    "name": "ATK",
     "value": "25%"
   },
-  "skill": "發動[支援攻擊]時，裝備者的攻擊力提升12%/13.8%/15.6%/17.4%/19.2%，持續12秒。",
+  "skill": "Launching a Dodge Counter or Quick Assist increases the equipper's ATK by 12%/13.8%/15.6%/17.4%/19.2% for 12s.",
   "level_material": [
     {
       "id": 1,

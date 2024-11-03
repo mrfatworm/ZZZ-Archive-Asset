@@ -1,16 +1,16 @@
 {
   "id": 41,
-  "name": "啜泣搖籃",
+  "name": "Weeping Cradle",
   "is_leak": false,
   "rarity": 5,
   "specialty": "support",
-  "background": "特製的多夾層嵌套式音擎，其內含有特殊的以太充電層，能為特型邦布和訂製作戰裝置快速充電。雖然該音擎從外表上看起來像是個殘酷的懲戒室，但麗娜的邦布們似乎非常喜歡鑽進裡面充電，甚至把「縮在裡面休息」當做舒適的「獎勵」。\n\n「嘘……兩個小傢伙在休息，要是突然醒了一定會很調皮。喝茶時建議不要發出聲音喔~」一一麗娜，用茶點招待朋友時的溫馨提示",
+  "background": "A special W-Engine with multiple layers embedded inside. It contains a special Ether charging layer that can quickly recharge special-model Bangboo and custom-made combat equipment. Even though this W-Engine looks like a cruel confinement chamber, Rina's Bangboo seem to enjoy sneaking in there to recharge their batteries. They even treat resting inside as a cozy reward. \"Shhh... The two little ones are resting; if they're woken suddenly they'll be sure to cause a ruckus. Let's avoid making any noise while we enjoy our tea.\" — Rina, giving a gentle reminder as she serves tea to friends",
   "atk": 684,
   "stat": {
-    "name": "穿透率",
+    "name": "PEN Ratio",
     "value": "24%"
   },
-  "skill": "位於後場時，装備者的能量自動回復提升0.6/0.76/0.9/1.05/1.2點/秒。装備者攻擊命中敵人時，全隊對目標造成的傷害提升10/12.5/15/17.5/20%，持續3秒。效果持續期間，每0.5秒該增益效果額外提升1.7/2/2.5/3/3.3%，最多額外提升10.2/12.5/15/17.5/20%，重複觸發時僅重置持續時間，不重置傷害提升效果，同名被動效果之間不可疊加。",
+  "skill": "While off-field, Energy Regen increases by 0.6/0.76/0.9/1.05/1.2/s. Attacks from the equipper enhance the squad's DMG against a struck target by 10%/12.5%/15%/17.5%/20% for 3 seconds. During this period, this effect is further increased by 1.7%/2%/2.5%/3%/3.3% every 0.5s, up to a maximum additional increase of 10.2%/12.5%/15%/17.5%/20%. Repeated triggers only refresh its duration without refreshing the DMG increase effect. Passive effects of the same name do not stack.",
   "level_material": [
     {
       "id": 1,

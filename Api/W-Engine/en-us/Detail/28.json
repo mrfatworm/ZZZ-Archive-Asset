@@ -1,16 +1,16 @@
 {
   "id": 28,
-  "name": "仿製星徽引擎",
+  "name": "Starlight Engine Replica",
   "is_leak": false,
   "rarity": 4,
   "specialty": "attack",
-  "background": "專精於輔助瞄準與彈道計算的特製超算力音擎，在被比利改裝後，更像是某種盜版的星徽騎士模型。它在偵測到敵人時會不斷閃動光芒，並且大聲喊出設定好的台詞。雖然此舉無異於自曝位置，吸引敵人的注意力，但對比利來說，只要夠帥，一切都不是問題。\n\n「仿製？怎麼能說仿製呢？這裡面可是傾注了我全部的熱情、智慧、靈感和冷凝水！除了不能呼喚流星出來讓我變身，它就是真正的星徽騎士裝備！」——比利，激動地陳述自己的改裝理念",
+  "background": "A custom supercomputing W-Engine which specializes in aim assist and calculating trajectories, it looks more like some kind of pirated Starlight Knight figurine now that Billy's finished his modifications. It flashes brightly whenever an enemy is detected and shouts out pre-set quotes. Despite this move clearly exposing one's location and attracting the enemy, this is not an issue for Billy so long as everything is cool enough. \"COPY? How can you call that a copy?! I've poured all of my passion, wisdom, soul, and moisture into this! Apart from summoning a shooting star to transform me — this is a real deal, bona fide Starlight Knight equipment!\" —Billy, enthusiastically outlining his modding philosophy",
   "atk": 624,
   "stat": {
-    "name": "攻擊力",
+    "name": "ATK",
     "value": "25%"
   },
-  "skill": "[普通攻擊]或[衝刺攻擊]命中6公尺外的敵人時，裝備者對目標造成的物理傷害提升36%/41%/46.5%/52%/57.5%，持續8秒。",
+  "skill": "Increases the equipper's Physical DMG by 36%/41%/46.5%/52%/57.5% for 8s upon hitting an enemy at least 6 meters away with a Basic Attack or Dash Attack.",
   "level_material": [
     {
       "id": 1,

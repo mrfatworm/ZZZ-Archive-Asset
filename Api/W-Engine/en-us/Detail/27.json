@@ -1,16 +1,16 @@
 {
   "id": 27,
-  "name": "居家服務員",
+  "name": "Housekeeper",
   "is_leak": false,
   "rarity": 4,
   "specialty": "attack",
-  "background": "高轉速的動力增強型音擎，可琳將其軸心部分與鏈鋸進行了一體化改造，為自己的「清掃用具」提供了切割動力。而為了保證「清掃」順利，不對對方造成額外的麻煩和痛苦，善解人意的可琳還貼心地將轉速調整到了極限功率。\n\n「那個……請放心，不會痛的！嗯…應該說只會痛一下下，然後就再也不痛了！」——可琳，在進攻前嘗試安撫對手",
+  "background": "An enhanced W-Engine with a high rotation speed. Corin has integrated its shaft portion with a chainsaw to provide additional cutting power for her \"cleaning\" work. To ensure that her \"cleaning\" goes smoothly and to minimize the pain inflicted on her target, she has thoughtfully increased the rotation speed to the maximum. \"Um... Don't worry, it won't hurt! Well... I mean, it will only hurt for a moment, and then it won't hurt anymore!\" — Corin, attempting to comfort her opponent before attacking",
   "atk": 624,
   "stat": {
-    "name": "攻擊力",
+    "name": "ATK",
     "value": "25%"
   },
-  "skill": "位於後場時，能量自動回復提升0.45/0.52/0.58/0.65/0.72點/秒；[強化特殊技]命中敵人時，裝備者造成的物理傷害提升3%/3.5%/4%/4.4%/4.8%%，最多疊加15層，持續[]秒，重複觸發時重置持續時間。",
+  "skill": "While off-field, the equipper's Energy Regen increases by 0.45/0.52/0.58/0.65/0.72/s. When an EX Special Attack hits an enemy, the equipper's Physical DMG increases by 3%/3.5%/4%/4.4%/4.8%, stacking up to 15 times and lasting 1s. Repeated triggers reset the duration.",
   "level_material": [
     {
       "id": 1,

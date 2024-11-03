@@ -1,16 +1,16 @@
 {
   "id": 11,
-  "name": "「電磁暴」-貳式",
+  "name": "[Magnetic Storm] Bravo",
   "is_leak": false,
   "rarity": 3,
   "specialty": "anomaly",
-  "background": "強化了動作偵測功能的輸出型音擎，能即時偵測使用者的作戰狀態，以便在關鍵的動作節點提高輸出功率，達到最佳的作戰效果。在動作結束後，該音擎會發出炫目的五彩閃光，並對本次動作的難度和完成度作出評分。",
+  "background": "This damage-type W-Engine features enhanced movement detection modules that can detect the operator's status in real-time and boost their combat prowess at critical moments to optimize battle efficiency. After the operator completes the finishing move, the W-Engine emits a dazzling multicolored flash and rates the operators' move.",
   "atk": 475,
   "stat": {
-    "name": "異常精通",
+    "name": "Anomaly Proficiency",
     "value": "60"
   },
-  "skill": "隊伍中任意角色對敵人施加屬性異常效果時，裝備者回復25/28/32/36/40點能量，10秒內最多觸發一次。",
+  "skill": "Accumulating Anomaly Buildup increases the equipper's Anomaly Proficiency by 25/28/32/36/40 for 10s. This effect can trigger once every 20s.",
   "level_material": [
     {
       "id": 1,

@@ -1,16 +1,16 @@
 {
   "id": 19,
-  "name": "人為刀俎",
+  "name": "Steam Oven",
   "is_leak": false,
   "rarity": 4,
   "specialty": "stun",
-  "background": "大功率變溫型音擎，內建了新型的能量轉換系統，能將額外產出的熱量收集並供給蒸氣鍋爐利用，輕鬆烹煮、快速加熱。無論是居家旅行、空洞內外皆可使用。當然……使用時請千萬小心，以防燙傷。",
+  "background": "This high-power W-Engine boasts a cutting-edge energy conversion device that collects heat from its surroundings and supplies it to the steamer, making it easy for the operator to cook or heat up objects. This makes it a perfect choice for Hollow explorers. However... please be careful when using it to avoid burns.",
   "atk": 594,
   "stat": {
     "name": "能量自動回復",
     "value": "50%"
   },
-  "skill": "每擁有10點能量值，裝備者的衝擊力提升2%/2.3%/2.6%/2.9%/3.2%，最多疊加8層，能量消耗後該增益效果仍然保留，持續8秒，每層效果單獨結算持續時間。",
+  "skill": "For every 10 Energy accumulated, the equipper's Impact is increased by 2%/2.3%/2.6%/2.9%/3.2%, stacking up to 8 times. After Energy is consumed, this bonus remains for 8 more seconds. The duration of each stack is calculated separately.",
   "level_material": [
     {
       "id": 1,

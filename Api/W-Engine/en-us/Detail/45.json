@@ -1,16 +1,16 @@
 {
   "id": 45,
-  "name": "轟鳴座駕",
+  "name": "Roaring Ride",
   "is_leak": false,
   "rarity": 4,
   "specialty": "anomaly",
-  "background": "用卡車發動機零件改裝而成的能量型音擎，原裝氣缸改造為儲能單元後更顯優勢。此物在「豬突猛進」內部競速中排名第一，力壓各台重型機車和派派本人親自駕駛的卡車。\n「可惜沒有任何載貨方式……不然，掛獠牙上？」——派派·優秀物流運輸司機·韋爾評價道",
+  "background": "This energy W-Engine, modded from spare parts of a truck's engine, converts the original cylinder into an energy storage unit, which is highly advantageous. It placed first in the internal Chototsumōshin competition, surpassing many heavy-duty motorbikes and even a truck driven by Piper herself.\n\n\"Too bad there's no way to carry cargo... Maybe we can hang it on the tusks?\" — Piper, top-notch logistics driver",
   "atk": 624,
   "stat": {
-    "name": "攻擊力",
+    "name": "ATK",
     "value": "25%"
   },
-  "skill": "[強化特殊技]命中敵人時，隨機觸發以下三種效果中的一種，持續5秒，0.3秒內最多觸發一次，同類效果不可疊加，重複觸發時重置持續時間，多個效果可以同時存在：裝備者的攻擊力提升8%/9.2%/10.4%/11.6%/12.8%。裝備者的異常精通提升40/46/52/58/64點。裝備者的屬性異常積蓄效率提升25%/28%/32%/36%/40%。",
+  "skill": "When EX special Attack hits an enemy, one of three possible effects is randomly triggered for 5 seconds. This effect can trigger once every 0.3s. the same types of effects cannot stack. Repeated triggers reset the duration, allowing several effects to be active at once: Increases the equipper's ATK by 8%/9.2%/10.4%/11.6%/12.8%, increases the equipper's Anomaly Proficiency by 40/46/52/58/64, or increases the equipper's Anomaly Buildup Rate by 25%/28%/32%/36%/40%.",
   "level_material": [
     {
       "id": 1,

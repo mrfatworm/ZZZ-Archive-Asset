@@ -1,16 +1,16 @@
 {
   "id": 51,
-  "name": "灼心搖壺",
+  "name": "Flamemaker Shaker",
   "is_leak": false,
   "rarity": 5,
   "specialty": "anomaly",
-  "background": "以特製燃油為動力源，將焚燒效能提升至極致的改造音擎，透過將油罐填充進反應槽來驅動運轉，內建的高壓反應裝置能將燃油以最高效率轉化成充滿燒焦氣味的烈火。據說燃油飲也可以作為動力源的一種，因為曾有人目擊到柏妮思將燃油飲倒進了油罐裡，戰鬥過後又將殘餘的液體刮回了吧檯的高腳杯中。\n\n「毫無疑問的同行詆毀，我提供給客人的特調從來都是乾淨又衛生的！那些從油罐裡瀝出來的燃油飲是給我自己喝的，因為高壓濃縮後別有一番風味！」——為自己的職業名譽正名的柏妮思，並未察覺到顧客們不自覺退半步的動作。",
+  "background": "Powered by a specially formulated fuel, this modified W-Engine is optimized to push combustion performance to the extreme. The engine operates by injecting fuel from the tank into the reaction chamber, where a high-pressure reaction device converts the fuel into searing flames, leaving behind a scorched aroma. It's rumored Nitro-Fuel can also be used as a power source, as there was a sighting of Burnice pouring one into the tank, and later scraping the remaining liquid back into a bar glass after the battle.\n\n\n\"This is definitely slander from a competitor. The special drinks I serve to my customers are always clean and hygienic! The Nitro-Fuel that drains out from the tank is for my own consumption because the high-pressure concentration gives it a special taste!\" — Burnice, in defense of her professional reputation, oblivious to her customers unconsciously taking a step back.",
   "atk": 713,
   "stat": {
-    "name": "攻擊力",
+    "name": "ATK",
     "value": "30%"
   },
-  "skill": "位於後場時，裝備者的能量自動回復提升0.6/0.75/0.9/1.05/1.2點/秒。[強化特殊技]或[支援攻擊]命中敵人時，裝備者造成的傷害提升3.5/4.4/5.2/6.1/7%%，最多疊加10層，持續6秒，0.3秒內最多觸發一次，位於後場時疊加效率翻倍，重複觸發時重置持續時間。獲得傷害提升效果時，若疊加層數大於等於5層，則裝備者的異常精通額外提升50/62/75/87/100點，異常精通提升效果不可疊加，持續6秒。",
+  "skill": "While off-field, the equipper's Energy Regen increases by 0.6/0.75/0.9/1.05/1.2/s. When hitting an enemy with an EX Special Attack or Assist Attack, the equipper's DMG increases by 3.5%/4.4%/5.2%/6.1%/7%, stacking up to 10 times and lasting for 6s. This effect can trigger once every 0.3s. While off-field, the stack effect is doubled. Repeated triggers reset the duration. Upon obtaining the DMG increase effect, if the number of current stacks is greater than or equal to 5, then the equipper's Anomaly Proficiency increases by 50/62/75/87/100. This Anomaly Proficiency increase does not stack and lasts for 6s.",
   "level_material": [
     {
       "id": 1,

@@ -4,13 +4,13 @@
   "is_leak": false,
   "rarity": 3,
   "specialty": "attack",
-  "background": "擕帶式大容量能源音擎，能收集周圍逸散的能量，進而有效提升裝備者的持續作戰能力。據說，此款音擎是「低電量恐懼症」患者進入空洞時的首選。",
+  "background": "This high-capacity portable W-Engine can collect dissipated energy from its surrounding, thus enhancing the combat effectiveness of its operator. It is a perfect choice for novice explorers who are worries that their W-Engine may run out of power during expeditions.",
   "atk": 475,
   "stat": {
-    "name": "暴擊率",
+    "name": "CRIT Rate",
     "value": "16%"
   },
-  "skill": "發動[強化特殊技]時，裝備者回復3/3.5/4/4.5/5點能量，12秒內最多觸發一次。",
+  "skill": "Launching an EX Special Attack generates 3/3.5/4/4.5/5 Energy for the equipper. This effect can trigger once every 12s.",
   "level_material": [
     {
       "id": 1,

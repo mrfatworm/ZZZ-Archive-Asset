@@ -1,16 +1,16 @@
 {
   "id": 16,
-  "name": "時光切片",
+  "name": "Slice of Time",
   "is_leak": false,
   "rarity": 4,
   "specialty": "support",
-  "background": "搭載有高速取景模組的特型音擎，空洞內攝影愛好者的最佳選擇，記錄痛扁以骸的每一個感動時刻，只要你能空出按快門的手。\n\nP.S.內部光學零件未作抗侵蝕處理，不要弄丟保固單。",
+  "background": "A special W-Engine equipped with a high-speed camera module. The best choice for in-Hollow photography enthusiasts. It captures every touching moment spent beating up your Ethereal friends, as long as you have a free hand to press the shutter. P.S. The internal optical components have not undergone anti-corruption treatment. Please do not lose the warranty form.",
   "atk": 594,
   "stat": {
-    "name": "穿透率",
+    "name": "PEN Ratio",
     "value": "20%"
   },
-  "skill": "隊伍中任意角色發動[閃避反擊]/[強化特殊技]/[支援攻擊]/[連攜技]時，額外獲得(20/25/30/35)/(23/28.5/34.5/40)/(26/32/39/45)/(29/35.5/43.5/50)/(32/40/48/55)點喧響值，並為裝備者回復0.7/0.8/0.9/1/1.1點能量，12秒內最多觸發一次，不同招式分別結算冷卻時間，同名被動效果之間不可疊加。",
+  "skill": "Any squad members' Dodge Counter, EX Special Attack, Assist Attack, or Chain Attack respectively generates (20/25/30/35)/(23/28.5/34.5/40)/(26/32/39/45)/(29/35.5/43.5/50)/(32/40/48/55) more Decibels and generates 0.7/0.8/0.9/1/1.1 Energy for the equipper. This effect can trigger once every 12s. The cooldown for each type of attack is independent of others. Passive effects of the same name do not stack.",
   "level_material": [
     {
       "id": 1,

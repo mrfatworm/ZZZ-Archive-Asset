@@ -1,16 +1,16 @@
 {
   "id": 29,
-  "name": "旋鑽機-赤軸",
+  "name": "Drill Rig - Red Axis",
   "is_leak": false,
   "rarity": 4,
   "specialty": "attack",
-  "background": "原本為轉速增強型音擎，安東選用了最昂貴的旋鑽機配件對其進行一體化改裝，使其輸出功率可以在短時間內超越極限，更好地為自己的「兄弟』」供能。在對待「兄弟」的相關配件上，安東從不吝嗇。\n\n「材料是本親自採購的，改裝技術是格莉絲支持的，威力是社長驗證過的……兄弟，白祇重工的祝福都集中在你身上了，一起加油吧！」——安東，初次啟動時的自言自語",
+  "background": "Originally a high-rev W-Engine, it has been modified by Anton with the most expensive rotary drill parts. These modifications allow the engine to temporarily exceed its output limits, enabling it to better serve Anton's \"bro.\" When it comes to anything involving his \"bro,\" Anton spares no expense. \"Ben bought the materials, Grace helped with the modding, and the force was signed off by the president herself... Bro, the blessings of all Belobog are inside you. Let's do this!\" — Anton muttering to himself the first time he starts it up",
   "atk": 624,
   "stat": {
     "name": "Energy Regen",
     "value": "50%"
   },
-  "skill": "發動[強化特殊技]時，[普通攻擊]和[衝刺攻擊]造成的電屬性傷害提升50%/57.5%/65%/72.5%/80%，持續10秒，15秒內最多觸發一次。",
+  "skill": "When launching an EX Special Attack or Chain Attack, Electric DMG from Basic Attacks and Dash Attacks increases by 50%/57.5%/65%/72.5%/80% for 10s. This effect can trigger once every 15s.",
   "level_material": [
     {
       "id": 1,

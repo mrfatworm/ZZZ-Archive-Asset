@@ -1,16 +1,16 @@
 {
   "id": 5,
-  "name": "「殘響」-II型",
+  "name": "[Reverb] Mark II",
   "is_leak": false,
   "rarity": 3,
   "specialty": "support",
-  "background": "性能均衡的制式音擎，雖然沒有特殊的戰術傾向，卻能夠有效且全面地提升裝備者及其隊友的作戰能力。對於不少剛入行、沒有特殊作戰需求的新兵而言，此款音擎是他們青睞的最佳裝備。",
+  "background": "A standardized W-Engine with balanced performance. Despite lacking any particular tendencies, it enhanced its owner's and it's owner's teammates' combat effectiveness in all aspects. For novice explorers who have not figured out their preferred combat style, this W-Engine is an excellent choice.",
   "atk": 475,
   "stat": {
     "name": "Energy Regen",
     "value": "40%"
   },
-  "skill": "發動[強化特殊技]或[連攜技]時，全隊異常掌控和異常精通提升10/12/13/15/16點，持續10秒，20秒内最多觸發一次，同名被動效果之間不可疊加。",
+  "skill": "Launching an EX Special Attack or Chain Attack increases all squad members' Anomaly Mastery and Anomaly Proficiency by 10/12/13/15/16 for 10s. This effect can trigger once every 20s. Passive effects of the same name do not stack.",
   "level_material": [
     {
       "id": 1,

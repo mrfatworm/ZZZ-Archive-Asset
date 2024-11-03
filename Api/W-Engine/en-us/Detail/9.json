@@ -1,16 +1,16 @@
 {
   "id": 9,
-  "name": "「湍流」-斧型",
+  "name": "[Vortex] Hatchet",
   "is_leak": false,
   "rarity": 3,
   "specialty": "stun",
-  "background": "可在瞬間爆發出超額功率的變頻音擎，能有效提升裝備者的戰鬥破壞力，但因為散熱問題，該款音擎在使用中經常發出吵鬧的轟鳴聲，使得整個小隊成員不得不佩戴防噪音耳機。",
+  "background": "This inverter W-Engine can generate excessive power and effectively increase its operator's battle prowess. However, due to its poor heat dissipation, it emits ear-splitting noise during battle. As a result, all squad members will need to wear earplugs.",
   "atk": 475,
   "stat": {
     "name": "Energy Regen",
     "value": "40%"
   },
-  "skill": "進入接戰狀態或換入前場時，裝備者的衝擊力提升9%/10%/11%/12%/13%，持續10秒，20秒內最多觸發一次。",
+  "skill": "Upon entering combat or switching in, the equipper's Impact increases by 9%/10%/11%/12%/13% for 10s. This effect can trigger once every 20s.",
   "level_material": [
     {
       "id": 1,

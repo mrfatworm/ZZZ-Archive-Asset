@@ -1,16 +1,16 @@
 {
   "id": 6,
-  "name": "「殘響」-III型",
+  "name": "[Reverb] Mark III",
   "is_leak": false,
   "rarity": 3,
   "specialty": "support",
-  "background": "內建了動作捕捉演算法的特製音擎，能夠監測成員的戰鬥狀態，發出有節奏的訊號，使各個成員的戰術和動作能互相配合，從而整體增強小隊的戰鬥能力。當然，前提是所有人都能跟上它發出的節拍，而不是踩到其他成員的鞋子……",
+  "background": "This special W-Engine features motion capture algorithms that monitor the status of the operator's teammates, enabling it to send signals to coordinate tactical movements and enhance the overall combat competency of the squad. However, this premise assumes that everyone can keep up with its signals instead of stepping on other members' toes...",
   "atk": 475,
   "stat": {
     "name": "生命值",
     "value": "20%"
   },
-  "skill": "發動[連攜技]或[終結技]時，全隊攻擊力提升8%/9%/10%/11%/12%，持續10秒，20秒內最多觸發一次，同名被動效果之間不可疊加。",
+  "skill": "Launching a Chain Attack or Ultimate increases all squad members' ATK by 8%/9%/10%/11%/12% for 10s. This effect can trigger once every 20s. Passive effects of the same name do not stack.",
   "level_material": [
     {
       "id": 1,

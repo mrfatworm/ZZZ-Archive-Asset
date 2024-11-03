@@ -1,16 +1,16 @@
 {
   "id": 20,
-  "name": "貴重骨核",
+  "name": "Precious Fossilized Core",
   "is_leak": false,
   "rarity": 4,
   "specialty": "stun",
-  "background": "採用複合以太材料作為外殼的特製音擎，能在戰鬥中吸收衝擊力，並轉而對敵人施放。據說它的原型機由某位元老級空洞冒險家親自製作而成，在轉手了無數次之後依舊能夠順暢執行，和表面的古董化石一樣，堪稱音擎界的骨灰級前輩。",
+  "background": "A special W-Engine whose outer shell is made of composite Etheric matter that effectively absorb incoming impacts in combat and turn it against the enemy. Rumors suggest that its prototype was crafted by a legendary Hollow explorer, and despite its ancient appearance, it continues to run smoothly. This W-Engine is literally an \"old timer\" in the field of W-Engines.",
   "atk": 594,
   "stat": {
     "name": "Impact",
     "value": "15%"
   },
-  "skill": "目標生命值大於等於50%時，裝備者造成的失衡值提升10%/11.5%/13%/14.5%/16%，目標生命值大於等於75%時，該增益效果額外提升10%/11.5%/13%/14.5%/16%。",
+  "skill": "When the target's HP is no lower than 50%, the equipper inflicts 10%/11.5%/13%/14.5%/16% more Daze. When the target's HP is no lower than 75%, this bonus is further enhanced by 10%/11.5%/13%/14.5%/16%.",
   "level_material": [
     {
       "id": 1,

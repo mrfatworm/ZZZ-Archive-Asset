@@ -1,16 +1,16 @@
 {
   "id": 46,
-  "name": "鎏金花信",
+  "name": "Gilded Blossom",
   "is_leak": false,
   "rarity": 4,
   "specialty": "attack",
-  "background": "花的明豔，花的燦爛，於奢綺極盡之中雕琢的音擎。然而終於解除以太供能的超規防盜裝置後，技藝高明的竊賊絕望地發現：這是鍍金的。",
+  "background": "A W-Engine that represents the brilliance and magnificence of flowers, seemingly crafted from the most luxurious materials. However, after finally dismantling the Ether-powered premium anti-theft device, an experienced thief will discover with terror that this W-Engine... is gilded.",
   "atk": 594,
   "stat": {
-    "name": "攻擊力",
+    "name": "ATK",
     "value": "25%"
   },
-  "skill": "攻擊力提升6%/6.9%/7.8%/8.7%/9.6%，[強化特殊技]造成的傷害提升15%/17.2%/19.5/21.8/24%。",
+  "skill": "ATK increases by 6%/6.9%/7.8%/8.7%/9.6%, and DMG dealt by EX Special Attacks increases by 15%/17.2%/19.5/21.8/24%.",
   "level_material": [
     {
       "id": 1,

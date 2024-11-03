@@ -1,16 +1,16 @@
 {
   "id": 21,
-  "name": "正版變身器",
+  "name": "Original Transmorpher",
   "is_leak": false,
   "rarity": 4,
   "specialty": "defense",
-  "background": "受到星徽騎士粉絲追捧的夢幻音擎，由於高人氣和限定發售的營銷策略導致山寨貨橫行，「使用盜版變身器只會變成反派雜魚！」——片方代表於產品發表會如是說。且看好一記令惡徒魄散魂飛的飛踢！這就是正版授權的威力！",
+  "background": "An epic W-Engine favored by Starlight Knight fans. Its high popularity and scarcity marketing strategy have caused an influx of knock-offs. \"Using a fake transmorpher will only turn you into a villain's minion!\" said its distributor at the product launch conference. Did you see that mighty kick that can send any evil-doer flying? Such is the power of the original product license!",
   "atk": 594,
   "stat": {
     "name": "生命值",
     "value": "25%"
   },
-  "skill": "生命值上限提升8%/9%/10%/11%/12%；受到敵方攻擊時，裝備者的衝擊力提升10%/11.5%/13%/14.5%/16%，持續12秒。",
+  "skill": "Increases Max HP by 8%/9%/10%/11%/12%. When attacked, the equipper's Impact is increased by 10%/11.5%/13%/14.5%/16% for 12s.",
   "level_material": [
     {
       "id": 1,

@@ -1,16 +1,16 @@
 {
   "id": 13,
-  "name": "「恆等式」-本格",
+  "name": "[Identity] Base",
   "is_leak": false,
   "rarity": 3,
   "specialty": "defense",
-  "background": "按照一定引數調整過元件結構的音擎，能為符合特定戰鬥的習慣使用者增強防禦能力。如果使用者不符合此音擎的篩選條件，那麼攜帶它的體驗約等於肩扛巨大盾牌勉力作戰。",
+  "background": "A W-Engine with a component structure adjusted according to specific parameters. It can enhance the defensive capabilities of those who have a certain style of combat. If the user does not meet the requirements for this W-Engine, then carrying it would be like lugging around an over-sized shield in battle.",
   "atk": 475,
   "stat": {
-    "name": "防禦力",
+    "name": "DEF",
     "value": "32%"
   },
-  "skill": "受到攻擊時，裝備者的防禦力提升20%/23%/26%/29%/32%，持續8秒。",
+  "skill": "When attacked, equipper's DEF increases by 20%/23%/26%/29%/32% for 8s.",
   "level_material": [
     {
       "id": 1,

@@ -1,16 +1,16 @@
 {
   "id": 33,
-  "name": "逍遙遊球",
+  "name": "Unfettered Game Ball",
   "is_leak": false,
   "rarity": 4,
   "specialty": "support",
-  "background": "加裝有新型集成晶片的超算力音擎，可動態監測戰場環境，為裝備者提供戰術分析。同時該音擎與流行掌機進行了一體化設計，可讓裝備者隨時隨地遊玩時下最流行的遊戲。不過極不推薦將遊戲聲音用喇叭播放……尤其是在以骸頻繁出沒的空洞區域。",
+  "background": "A new supercomputing W-Engine, featuring cutting-edge integrated chips that dynamically monitor the battlefield and provide tactical analysis for its user. Furthermore, this W-Engine can serve as a portable console, allowing its user to play the most popular video games anytime, anywhere. However, it is not advisable to use the speakers while playing games... Especially not in Hollow areas frequented by Ethereals.",
   "atk": 594,
   "stat": {
     "name": "Energy Regen",
     "value": "50%"
   },
-  "skill": "裝備者攻擊命中敵人時，若觸發屬性克制效果，則全隊對該目標的暴擊率提升12%/13.5%/15.5%/17.5%/20%%，持續12秒，同名被動效果之間不可疊加。",
+  "skill": "Whenever the equipper's attack triggers an Attribute Counter effect, all squad members' CRIT Rate against the struck enemy increases by 12%/13.5%/15.5%/17.5%/20% for 12s. The bonuses triggered by the same type of passive effects do not stack.",
   "level_material": [
     {
       "id": 1,

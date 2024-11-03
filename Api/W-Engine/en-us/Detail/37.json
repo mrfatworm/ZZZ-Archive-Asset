@@ -1,16 +1,16 @@
 {
   "id": 37,
-  "name": "燃獄齒輪",
+  "name": "Hellfire Gears",
   "is_leak": false,
   "rarity": 5,
   "specialty": "stun",
-  "background": "超大功率的功能音擎，經過珂蕾妲的改裝，其效能幾乎超越了安全上限。雖然整個音擎的全部功率都用於輸出，以至於加速和爆燃兩個功能只能合併到一起，但對珂蕾妲來說，這正是她想要的效果。\n\n「我現在可是能輕輕鬆鬆就敲到你的脛骨喔？所以「有點矮啊」之類的話你最好想清楚了再說喔!」–––珂蕾妲，對出言不遜的合作商放狠話",
+  "background": "This W-Engine is renowned for its ultra power. Modified by Koleda, its energy level has almost exceeded the safety limit. Although this W-Engine is entirely designed for damage output, and the Speedup and Blaze functions have been merged into one, this is precisely what Koleda wanted.\n\n\"I've got a clear shot at your shins, you know? So you'd better think twice before saying I'm short, got it?\" — Koleda, warning a rude business partner",
   "atk": 684,
   "stat": {
     "name": "Impact",
     "value": "18%"
   },
-  "skill": "位於後場時，装備者的能量自動回復提升0.6/0.75/0.9/1.05/1.2點/秒。發動[強化特殊技]時，装備者的衝擊力提升10/12.5/15/17.5/20%，最多疊加2層，持續10秒，每層效果單獨結算持續時間。",
+  "skill": "When off-field, the equipper's Energy Regen increases by 0.6/0.75/0.9/1.05/1.2/s.\nWhen using an EX Special Attack, the equipper's Impact is increased by 10%/12.5%/15%/17.5%/20% for 10s, stacking up to 2 times. The duration of each stack is calculated separately.",
   "level_material": [
     {
       "id": 1,

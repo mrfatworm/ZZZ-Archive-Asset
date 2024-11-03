@@ -1,16 +1,16 @@
 {
   "id": 40,
-  "name": "深海訪客",
+  "name": "Deep Sea Visitor",
   "is_leak": false,
   "rarity": 5,
   "specialty": "attack",
-  "background": "特製的大功率變溫型音擎，能利用自身的降溫功能快速凍結周圍的物體；雖然它兼具極強的製冷能力與輸出功率，是一款性能絕佳的戰術音擎，不過對於艾蓮來說，它最主要的用途是往開口處放進冰塊，製作刨冰。\n\n「我想把它帶去學校用。尤其是夏天。但是萊卡恩和麗娜不允許……真麻煩。」––––艾蓮，一邊吃冰一邊搖頭",
+  "background": "This high-power W-Engine has the capability to rapidly lower the temperature of the environment, allowing it to instantly freeze nearby objects. Although it is an excellent tactical W-Engine due to its efficient freezing and high damage output, Ellen primarily uses it to make frappes. \"I want to bring it to school, especially in the summer. But Lycaon and Rina won't let me... So annoying.\" — Ellen, shaking her head while eating ice",
   "atk": 713,
   "stat": {
     "name": "CRIT Rate",
     "value": "24%"
   },
-  "skill": "冰屬性傷害提升25/31.5/38/44.5/50%。[普通攻擊]命中敵人時，裝備者的暴擊率提升10/12.5/15/17.5/20%，持續8秒。[衝刺攻擊]造成冰屬性傷害時，裝備者的暴擊率額外提升10/12.5/15/17.5/20%，持續15秒，每種增益效果單獨結算持續時間。",
+  "skill": "Increases Ice DMG by 25%/31.5%/38%/44.5%/50%. Dealing Ice DMG using Dash Attacks or Dodge Counters increases the equipper's CRIT Rate by 10%/12.5%/15%/17.5%/20% for 8s. When Dealing Ice DMG with a Dash Attack, the equipper's CRIT Rate increases by an additional 10%/12.5%/15%/17.5%/20% for 15s. The duration of each effect is calculated separately.",
   "level_material": [
     {
       "id": 1,

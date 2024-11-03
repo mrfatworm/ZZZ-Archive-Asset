@@ -1,16 +1,16 @@
 {
   "id": 44,
-  "name": "好鬥的阿炮",
+  "name": "Kaboom the Cannon",
   "is_leak": false,
   "rarity": 4,
   "specialty": "support",
-  "background": "噴氣形式推進、機動性與衝擊力兼備的支援型音擎，能夠跑遍全場提供戰鬥增益。不僅是實用的好音擎，還是阿草、阿木和阿磚的最大假想敵和最害怕的陪練對象。\n「做不到的話，就和阿炮一起訓練！」——露西，對三位忠實小野豬親衛訓話。",
+  "background": "A support W-Engine propelled by jets that is both mobile and impactful, it can traverse the entire battlefield providing combat buffs. Not only is it practical, but it's the biggest imaginary enemy and most-feared sparring partner of Grassy, Woody, and Bricky. The little boars can hear Lucy say in their nightmares. \"If you can't do it, go train with Kaboom!\" — Lucy, lecturing her three loyal guard boars",
   "atk": 624,
   "stat": {
     "name": "Energy Regen",
     "value": "50%"
   },
-  "skill": "隊伍中任意友方單位攻擊命中敵人時，隊伍中所有友方單位的攻擊力提升2.5%/2.8%/3.2%/3.6%/4%，最多疊加4層，持續8秒，每層效果單獨結算持續時間，每名友方單位最多提供1層增益效果，同名被動效果之間不可疊加。",
+  "skill": "When any friendly unit in the squad attacks and hits an enemy, all squad members' ATK increases by 2.5%/2.8%/3.2%/3.6%/4% for 8s, stacking up to 4 times. The duration of each stack is calculated separately, and each friendly unit can provide 1 stack of the buff. Passive effects of the same name do not stack.",
   "level_material": [
     {
       "id": 1,

@@ -1,16 +1,16 @@
 {
   "id": 12,
-  "name": "「電磁暴」-參式",
+  "name": "[Magnetic Storm] Charlie",
   "is_leak": false,
   "rarity": 3,
   "specialty": "anomaly",
-  "background": "大容量供能型音擎，內建有電流發生器，即使不用裝備者額外操作，也可持續性儲備電能。在戰鬥中裝備此款音擎，有時可以出其不意地將麻煩的敵人一擊擊暈。",
+  "background": "A high-capacity W-Engine that features a built-in generator, allowing it to keep a stable storage of electrical power without any manual operation from the operator. As a result, it proves to be exceptionally used in battle as its electric current can stun tough enemies.",
   "atk": 475,
   "stat": {
-    "name": "穿透率",
+    "name": "PEN Ratio",
     "value": "16%"
   },
-  "skill": "隊伍中任意角色對敵人施加屬性異常效果時，裝備者回復3.5/4/4.5/5/5.5點能量，12秒內最多觸發一次。",
+  "skill": "Whenever a squad member inflicts an Attribute Anomaly on an enemy, the equipper generates 3.5/4/4.5/5/5.5 Energy. This effect can trigger once every 12s.",
   "level_material": [
     {
       "id": 1,
