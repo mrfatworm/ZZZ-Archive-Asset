@@ -1,0 +1,24 @@
+{
+  "id": 14,
+  "name": "Boollseye",
+  "is_leak": false,
+  "rarity": 4,
+  "attribute": "physical",
+  "basic_data": {
+    "hp": 3827,
+    "atk": 6570,
+    "def": 781
+  },
+  "active_skill": {
+    "name": "Straight in the Heart",
+    "description": "Throws a dart at the target, dealing Physical DMG.\n\nDMG Multiplier: 608%\n\nDaze Multiplier: 355%\n\nCooldown 16s"
+  },
+  "additional_ability": {
+    "name": "Crossfire Missiles",
+    "description": "When there is at least 1 Pierce-type character in your squad: Bangboo Chain Attack DMG increases by 60%."
+  },
+  "chain_attack": {
+    "name": "Dart of Desperation",
+    "description": "Launches itself with a slingshot, flying towards the target and performing consecutive slashes, dealing massive Physical DMG.\n\nDMG Multiplier: 1662%\n\nDaze Multiplier: 237%"
+  }
+}

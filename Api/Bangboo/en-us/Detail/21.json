@@ -1,0 +1,20 @@
+{
+  "id": 21,
+  "name": "Luckyboo",
+  "is_leak": false,
+  "rarity": 4,
+  "attribute": "physical",
+  "basic_data": {
+    "hp": 3827,
+    "atk": 6198,
+    "def": 781
+  },
+  "active_skill": {
+    "name": "Lavish Spending",
+    "description": "Strikes the target with a barrage of golden coins, dealing Physical DMG and accumulating Physical Anomaly Buildup.\n\nDMG Multiplier: 8.3%*140\n\nDaze Multiplier: 4.8%*140\n\nCooldown 22s"
+  },
+  "additional_ability": {
+    "name": "Luck is a Component of Power",
+    "description": "When there are 2 or more Physical Attribute characters in your squad: Active Skill inflicts 40% more Anomaly Buildup.\nActive Skill's continuous strikes duration is increased by 1.6s."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": 1,
+  "name": "Penguinboo",
+  "is_leak": false,
+  "rarity": 4,
+  "attribute": "ice",
+  "basic_data": {
+    "hp": 3827,
+    "atk": 6198,
+    "def": 723
+  },
+  "active_skill": {
+    "name": "Iceblade Dance",
+    "description": "Executes a series of graceful slashes with an ice blade, dealing Ice DMG and accumulating Ice Anomaly Buildup.\n\nDMG Multiplier: 877%\n\nDaze Multiplier: 513%\n\nCooldown 20s"
+  },
+  "additional_ability": {
+    "name": "Dry Ice Field",
+    "description": "When there are 2 or more Ice Attribute characters in your squad: Bangboo Chain Attack inflicts 120% more Anomaly Buildup."
+  },
+  "chain_attack": {
+    "name": "Frozen Hurricane",
+    "description": "Attacks the target with a series of slashes, dealing Ice DMG and inflicting massive Ice Anomaly Buildup.\n\nDMG Multiplier: 1818%\n\nDaze Multiplier: 260%"
+  }
+}

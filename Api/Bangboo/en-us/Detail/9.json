@@ -1,0 +1,24 @@
+{
+  "id": 9,
+  "name": "Devilboo",
+  "is_leak": false,
+  "rarity": 4,
+  "attribute": "ether",
+  "basic_data": {
+    "hp": 3827,
+    "atk": 6570,
+    "def": 723
+  },
+  "active_skill": {
+    "name": "Kiss of Temptation",
+    "description": "Enters the flying state, shooting homing bullets at enemies to deal Ether DMG and inflict Ether Anomaly Buildup.\n\nDMG Multiplier: 126%*3\n\nDaze Multiplier: 74%*3\nCooldown 30s"
+  },
+  "additional_ability": {
+    "name": "Ether Activity Increase",
+    "description": "When there are at least 2 Ether Attribute characters in your squad:\nBangboo Chain Attack inflicts 80% more Anomaly Buildup.\nAfter activating Bangboo Chain Attack, the coordination state lasts for 9 more seconds and can activate 8 more times."
+  },
+  "chain_attack": {
+    "name": "Kiss of Confusion",
+    "description": "Fires a laser at the target and then enters the coordination state. Under this state, fires homing bullets in coordination with the on-field character's attacks, dealing Ether DMG and inflicting Ether Anomaly Buildup for up to 30s or 10 activations.\n\nDMG Multiplier: 621%\n\nCo-DMG Multiplier: 89%\n\nDaze Multiplier: 70%\n\nCo-Daze Multiplier: 10%"
+  }
+}

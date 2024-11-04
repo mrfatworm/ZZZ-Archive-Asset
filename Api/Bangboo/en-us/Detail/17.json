@@ -1,0 +1,24 @@
+{
+  "id": 17,
+  "name": "Bagboo",
+  "is_leak": false,
+  "rarity": 4,
+  "attribute": "physical",
+  "basic_data": {
+    "hp": 3827,
+    "atk": 6570,
+    "def": 781
+  },
+  "active_skill": {
+    "name": "Closer, Closer...",
+    "description": "Unleashes a series of slashes with dual blades, dealing Physical DMG.\n\nDMG Multiplier: 684%\n\nDaze Multiplier: 400%\n\nCooldown 18s"
+  },
+  "additional_ability": {
+    "name": "Swiftly Honed",
+    "description": "When there is at least 1 Attack character in your squad: Bangboo Chain Attack DMG increases by 60%."
+  },
+  "chain_attack": {
+    "name": "That's Close Enough!",
+    "description": "Continually slashes the target, dealing massive Physical DMG.\n\nDMG Multiplier: 1451%\n\nDaze Multiplier: 207%"
+  }
+}
