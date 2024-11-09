@@ -356,6 +356,13 @@
       "is_leak": false,
       "rarity": 5,
       "specialty": "anomaly"
+    },
+    {
+      "id": 52,
+      "name": "時流賢者",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "anomaly"
     }
   ]
 }

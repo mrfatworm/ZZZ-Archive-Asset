@@ -241,6 +241,17 @@
       "attribute": "fire",
       "attack_type": "pierce",
       "faction_id": 7
+    },
+    {
+      "id": 25,
+      "name": "Tsukishiro",
+      "full_name": "Tsukishiro Yanagi",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "anomaly",
+      "attribute": "electric",
+      "attack_type": "slash",
+      "faction_id": 5
     }
   ]
 }

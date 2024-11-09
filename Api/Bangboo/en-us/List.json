@@ -160,6 +160,20 @@
       "is_leak": false,
       "rarity": 5,
       "attribute": "physical"
+    },
+    {
+      "id": 24,
+      "name": "Baddieboo",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "fire"
+    },
+    {
+      "id": 25,
+      "name": "Knightboo",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "ether"
     }
   ]
 }

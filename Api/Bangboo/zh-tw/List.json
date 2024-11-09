@@ -160,6 +160,20 @@
       "is_leak": false,
       "rarity": 5,
       "attribute": "physical"
+    },
+    {
+      "id": 24,
+      "name": "不良布",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "fire"
+    },
+    {
+      "id": 25,
+      "name": "騎士布",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "ether"
     }
   ]
 }

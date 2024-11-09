@@ -356,6 +356,13 @@
       "is_leak": false,
       "rarity": 5,
       "specialty": "anomaly"
+    },
+    {
+      "id": 52,
+      "name": "Timeweaver",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "anomaly"
     }
   ]
 }
