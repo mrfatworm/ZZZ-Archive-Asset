@@ -15,7 +15,7 @@
   },
   "additional_ability": {
     "name": "Knight's Chivalry",
-    "description": "When there is at least one Support character in your squad: When characters come into contact with Knight's Stars, their ATK increases by [20+Bangboo Level×1.2]/[25+Bangboo Level×1.4]/[30+Bangboo Level×1.6]/[35+Bangboo Level×1.8]/[40+Bangboo Level×2]\n\nDuration 10s。"
+    "description": "When there is at least one Support character in your squad: When characters come into contact with Knight's Stars, their ATK increases by [20+Bangboo Level×1.2]/[25+Bangboo Level×1.4]/[30+Bangboo Level×1.6]/[35+Bangboo Level×1.8]/[40+Bangboo Level×2]\n\nDuration 10s."
   },
   "chain_attack": {
     "name": "Knight, Bouncing Charge!",
