@@ -1,8 +1,7 @@
 {
-  "agent": 1,
-  "w-engine": 1,
-  "drive": 1,
-  "bangboo": 1,
-  "material": 1,
-  "banner_version": 1
+  "agents_list": 1,
+  "w_engines_list": 1,
+  "drives_list": 1,
+  "bangboo_list": 1,
+  "cover_images_list": 1
 }
