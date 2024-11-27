@@ -363,6 +363,13 @@
       "is_leak": false,
       "rarity": 5,
       "specialty": "anomaly"
+    },
+    {
+      "id": 53,
+      "name": "Blazing Laurel",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "stun"
     }
   ]
 }

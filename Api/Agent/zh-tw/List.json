@@ -252,6 +252,17 @@
       "attribute": "electric",
       "attack_type": "slash",
       "faction_id": 5
+    },
+    {
+      "id": 26,
+      "name": "萊特",
+      "full_name": "萊特",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "stun",
+      "attribute": "fire",
+      "attack_type": "strike",
+      "faction_id": 7
     }
   ]
 }

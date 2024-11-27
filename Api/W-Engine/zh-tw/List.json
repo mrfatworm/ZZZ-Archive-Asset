@@ -363,6 +363,13 @@
       "is_leak": false,
       "rarity": 5,
       "specialty": "anomaly"
+    },
+    {
+      "id": 53,
+      "name": "焰心桂冠",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "stun"
     }
   ]
 }
