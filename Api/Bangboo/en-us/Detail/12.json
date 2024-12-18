@@ -11,7 +11,7 @@
   },
   "active_skill": {
     "name": "Magnetic Lock-On",
-    "description": "Pulls in nearby enemies and deals Physical DMG to all enemies hit.\n\nDMG Multiplier: 912%\n\nDaze Multiplier: 533%\n\nCooldown 24s"
+    "description": "Pulls in nearby enemies and deals Physical DMG to all enemies hit.\n\nDMG Multiplier: 720%/768%/816%/864%/912%\n\nDaze Multiplier: 421.5%/449.6%/477.7%/505.8%/533.9%\n\nCooldown 24s"
   },
   "additional_ability": {
     "name": "Magnetic Attraction",

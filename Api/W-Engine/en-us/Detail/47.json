@@ -10,7 +10,7 @@
     "name": "Impact",
     "value": "18%"
   },
-  "skill": "When a Basic Attack hits an enemy, gain 1 stack of Tea-riffic. Each stack of Tea-riffic increases the user's Impact by 0.7％/0.88%/1.05%/1.22%/1.4%, stacking up to 30 times, and lasting for 8s. The duration of each stack is calculated separately. Upon acquiring Tea-riffic, if the equipper possesses stacks of Tea-riffic greater than or equal to 15, all squad members' DMG is increased by 20％/23%/26%/29%/32% for 10s. Passive effects of the same name do not stack.",
+  "skill": "When a Basic Attack hits an enemy, gain 1 stack of Tea-riffic. Each stack of Tea-riffic increases the user's Impact by 0.7%/0.88%/1.05%/1.22%/1.4%, stacking up to 30 times, and lasting for 8s. The duration of each stack is calculated separately. Upon acquiring Tea-riffic, if the equipper possesses stacks of Tea-riffic greater than or equal to 15, all squad members' DMG is increased by 20%/23%/26%/29%/32% for 10s. Passive effects of the same name do not stack.",
   "level_material": [
     {
       "id": 1,

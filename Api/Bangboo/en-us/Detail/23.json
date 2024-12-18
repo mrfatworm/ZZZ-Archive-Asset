@@ -15,7 +15,7 @@
   },
   "additional_ability": {
     "name": "Drifting Technique",
-    "description": "When there are at least 2 Sons of Calydon characters in your squad: Active Skill DMG increases by 36％/45%/54%/63%/72%. After an Active Skill deals DMG to an enemy, when that enemy is defeated, the skill's cooldown is reduced by 4/5/6/7/8s."
+    "description": "When there are at least 2 Sons of Calydon characters in your squad: Active Skill DMG increases by 36%/45%/54%/63%/72%. After an Active Skill deals DMG to an enemy, when that enemy is defeated, the skill's cooldown is reduced by 4/5/6/7/8s."
   },
   "chain_attack": {
     "name": "Mad Charge",
