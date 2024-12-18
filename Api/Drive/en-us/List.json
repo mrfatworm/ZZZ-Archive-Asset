@@ -97,6 +97,20 @@
       "is_leak": false,
       "piece_set_two": "Anomaly Proficiency +30",
       "piece_set_four": "Fire DMG and Electric DMG are increased by 15%. When off-field, DMG dealt by EX Special Attacks and Assist Attacks is increased by 20%. When the character switches back onto the field, this buff continues for 5s. The lasting effect can be triggered once every 7.55."
+    },
+    {
+      "id": 15,
+      "name": "Branch & Blade Song",
+      "is_leak": false,
+      "piece_set_two": "CRIT DMG +16%",
+      "piece_set_four": "When Anomaly Mastery exceeds or equals 115 points, the equipper's CRIT damage increases by 30%. When any squad member applies Freeze or triggers the Shatter effect on an enemy, the equipper's CRIT Rate increases by 12%, lasting 15s."
+    },
+    {
+      "id": 16,
+      "name": "Astral Voice",
+      "is_leak": false,
+      "piece_set_two": "ATK +10%",
+      "piece_set_four": "Whenever any squad member enters the field using a Quick Assist, all squad members gain 1 stack of Astral, up to a maximum of 3 stacks, and lasting 15s. Repeated triggers reset the duration. Each stack of Astral increases the DMG dealt by the character entering the field using a Quick Assist by 8%. Only one of this effect can be active at a time in the same squad."
     }
   ]
 }
