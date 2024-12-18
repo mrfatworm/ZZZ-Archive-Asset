@@ -263,6 +263,28 @@
       "attribute": "fire",
       "attack_type": "strike",
       "faction_id": 7
+    },
+    {
+      "id": 27,
+      "name": "Harumasa",
+      "full_name": "Asaba Harumasa",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "attack",
+      "attribute": "electric",
+      "attack_type": "pierce",
+      "faction_id": 5
+    },
+    {
+      "id": 28,
+      "name": "Miyabi",
+      "full_name": "Hoshimi Miyabi",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "anomaly",
+      "attribute": "ice",
+      "attack_type": "slash",
+      "faction_id": 5
     }
   ]
 }

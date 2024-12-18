@@ -370,6 +370,27 @@
       "is_leak": false,
       "rarity": 5,
       "specialty": "stun"
+    },
+    {
+      "id": 54,
+      "name": "強音熱望",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "attack"
+    },
+    {
+      "id": 55,
+      "name": "殘心青囊",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "attack"
+    },
+    {
+      "id": 56,
+      "name": "霰落星殿",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "anomaly"
     }
   ]
 }

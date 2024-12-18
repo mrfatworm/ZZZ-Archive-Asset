@@ -370,6 +370,27 @@
       "is_leak": false,
       "rarity": 5,
       "specialty": "stun"
+    },
+    {
+      "id": 54,
+      "name": "Marcato Desire",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "attack"
+    },
+    {
+      "id": 55,
+      "name": "Zanshin Herb Case",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "attack"
+    },
+    {
+      "id": 56,
+      "name": "Hailstorm Shrine",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "anomaly"
     }
   ]
 }

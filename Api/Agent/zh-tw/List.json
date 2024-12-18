@@ -263,6 +263,28 @@
       "attribute": "fire",
       "attack_type": "strike",
       "faction_id": 7
+    },
+    {
+      "id": 27,
+      "name": "悠真",
+      "full_name": "淺羽悠真",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "attack",
+      "attribute": "electric",
+      "attack_type": "pierce",
+      "faction_id": 5
+    },
+    {
+      "id": 28,
+      "name": "雅",
+      "full_name": "星見雅",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "anomaly",
+      "attribute": "ice",
+      "attack_type": "slash",
+      "faction_id": 5
     }
   ]
 }
