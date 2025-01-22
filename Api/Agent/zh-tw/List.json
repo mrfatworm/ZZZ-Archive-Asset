@@ -285,6 +285,17 @@
       "attribute": "ice",
       "attack_type": "slash",
       "faction_id": 5
+    },
+    {
+      "id": 29,
+      "name": "耀嘉音",
+      "full_name": "耀嘉音",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "support",
+      "attribute": "ether",
+      "attack_type": "strike",
+      "faction_id": 8
     }
   ]
 }

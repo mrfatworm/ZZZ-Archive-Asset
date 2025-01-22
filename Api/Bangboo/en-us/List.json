@@ -188,6 +188,13 @@
       "is_leak": false,
       "rarity": 4,
       "attribute": "fire"
+    },
+    {
+      "id": 28,
+      "name": "Snap",
+      "is_leak": false,
+      "rarity": 5,
+      "attribute": "ether"
     }
   ]
 }

@@ -391,6 +391,13 @@
       "is_leak": false,
       "rarity": 5,
       "specialty": "anomaly"
+    },
+    {
+      "id": 57,
+      "name": "玲瓏妝匣",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "support"
     }
   ]
 }
