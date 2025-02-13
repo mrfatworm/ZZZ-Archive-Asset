@@ -296,6 +296,17 @@
       "attribute": "ether",
       "attack_type": "strike",
       "faction_id": 8
+    },
+    {
+      "id": 30,
+      "name": "Evelyn",
+      "full_name": "Evelyn Chevalier",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "attack",
+      "attribute": "fire",
+      "attack_type": "strike",
+      "faction_id": 8
     }
   ]
 }

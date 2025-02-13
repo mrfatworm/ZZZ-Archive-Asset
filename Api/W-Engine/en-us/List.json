@@ -398,6 +398,13 @@
       "is_leak": false,
       "rarity": 5,
       "specialty": "support"
+    },
+    {
+      "id": 58,
+      "name": "Heartstring Nocturne",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "attack"
     }
   ]
 }
