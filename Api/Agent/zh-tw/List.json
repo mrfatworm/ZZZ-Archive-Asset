@@ -315,7 +315,7 @@
       "is_leak": false,
       "rarity": 4,
       "specialty": "stun",
-      "attribute": "fire",
+      "attribute": "physical",
       "attack_type": "slash",
       "faction_id": 7
     },
