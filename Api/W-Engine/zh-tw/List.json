@@ -405,6 +405,20 @@
       "is_leak": false,
       "rarity": 5,
       "specialty": "attack"
+    },
+    {
+      "id": 59,
+      "name": "裁紙刀",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "stun"
+    },
+    {
+      "id": 60,
+      "name": "犧牲潔純",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "attack"
     }
   ]
 }

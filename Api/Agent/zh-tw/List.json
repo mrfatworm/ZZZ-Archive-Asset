@@ -307,6 +307,28 @@
       "attribute": "fire",
       "attack_type": "strike",
       "faction_id": 8
+    },
+    {
+      "id": 31,
+      "name": "波可娜",
+      "full_name": "波可娜·費雷尼",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "stun",
+      "attribute": "fire",
+      "attack_type": "slash",
+      "faction_id": 7
+    },
+    {
+      "id": 32,
+      "name": "安比",
+      "full_name": "零號·安比",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "attack",
+      "attribute": "electric",
+      "attack_type": "slash",
+      "faction_id": 4
     }
   ]
 }

@@ -307,6 +307,28 @@
       "attribute": "fire",
       "attack_type": "strike",
       "faction_id": 8
+    },
+    {
+      "id": 31,
+      "name": "Pulchra",
+      "full_name": "Pulchra Fellini",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "stun",
+      "attribute": "fire",
+      "attack_type": "slash",
+      "faction_id": 7
+    },
+    {
+      "id": 32,
+      "name": "Anby",
+      "full_name": "Soldier 0 - Anby",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "attack",
+      "attribute": "electric",
+      "attack_type": "slash",
+      "faction_id": 4
     }
   ]
 }
