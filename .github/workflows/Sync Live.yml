@@ -3,7 +3,7 @@ name: Upload Live to Cloudflare R2
 on:
   push:
     branches:
-      - main
+      - main_not_now
   workflow_dispatch:
 
 jobs:

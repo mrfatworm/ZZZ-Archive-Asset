@@ -3,7 +3,7 @@ name: Upload Dev to Cloudflare R2
 on:
   push:
     branches:
-      - dev
+      - dev_not_now
   workflow_dispatch:
 
 jobs:
