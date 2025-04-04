@@ -1,0 +1,36 @@
+{
+  "id": 61,
+  "name": "Spectral Gaze",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "stun",
+  "background": "Her life was one of seeking. Seeking companions, enemies, the truth, warmth. She reached out time and again, only to have it slip through her fingers. If one day she finds the missing fragments of her incomplete soul, will she be able to hear the melody in the wind once more? \"Target has returned to the second floor of the video store. It sounds like they're preparing to sleep. Update on their location has been filed.\" — Trigger, apparently tracking and documenting a particular target.",
+  "atk": 713,
+  "stat": {
+    "name": "CRIT Rate",
+    "value": "24%"
+  },
+  "skill": "When the equipper hits an enemy with an Aftershock, causing Electric DMG, the target's DEF is reduced by 25%/28.75%/32.5%/36.25%/40% for 5s. Passive effects of the same name do not stack. When this effect is triggered, if the equipper is not the active character, they gain 1 stack of Spirit Lock, up to a maximum of 3 stacks. This can trigger only once per use of a skill. Each stack of Spirit Lock increases the equipper's Impact by 4％/4.6%/5.2%/5.8%/6.4%, lasting 12s. The duration of each stack is calculated separately. At full stacks of Spirit Lock, the equipper's Impact increases by an additional 8％/9.2%/10.4%/11.6%/12.8%",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 400000
+    },
+    {
+      "id": 10,
+      "amount": 188
+    },
+    {
+      "id": 35,
+      "amount": 4
+    },
+    {
+      "id": 36,
+      "amount": 32
+    },
+    {
+      "id": 37,
+      "amount": 30
+    }
+  ]
+}

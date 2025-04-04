@@ -329,6 +329,17 @@
       "attribute": "electric",
       "attack_type": "slash",
       "faction_id": 4
+    },
+    {
+      "id": 33,
+      "name": "Trigger",
+      "full_name": "Trigger",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "stun",
+      "attribute": "electric",
+      "attack_type": "pierce",
+      "faction_id": 4
     }
   ]
 }

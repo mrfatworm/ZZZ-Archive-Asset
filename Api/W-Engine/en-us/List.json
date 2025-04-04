@@ -419,6 +419,13 @@
       "is_leak": false,
       "rarity": 5,
       "specialty": "attack"
+    },
+    {
+      "id": 61,
+      "name": "Spectral Gaze",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "stun"
     }
   ]
 }
