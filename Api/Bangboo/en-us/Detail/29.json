@@ -1,0 +1,24 @@
+{
+  "id": 29,
+  "name": "Robin",
+  "is_leak": false,
+  "rarity": 5,
+  "attribute": "ether",
+  "basic_data": {
+    "hp": 4210,
+    "atk": 8261,
+    "def": 666
+  },
+  "active_skill": {
+    "name": "The Curtain Falls",
+    "description": "Fire a series of random cards using a magic gun, each triggering different effects based on card type:\n\nHearts – Deals massive Physical DMG. Spades – Deals Physical DMG and inflicts massive Daze.\n\nCrowns – Deals Ether DMG and accumulates massive Ether Anomaly Buildup."
+  },
+  "additional_ability": {
+    "name": "Master of Disguise",
+    "description": "When there is at least 1 Mockingbird character in the squad: When the on-field Agent in the squad meets the Specialty requirements, the Active Skill fires a fixed card with a buff:\n\nAttack: Fires only Hearts, increasing the DMG by 45%/56%/67%/78%/90%.\n\nStun: Fires only Spades, increasing the Daze buildup by 27%/34%/40%/47%/54%.\n\nAnomaly: Fires only Crowns, increasing the Anomaly Buildup by 90%/112.5%/135%/157.5%/180%."
+  },
+  "chain_attack": {
+    "name": "Show Time!",
+    "description": "Throws a magic grenade forward, dealing Ether DMG and inflicting Ether Anomaly Buildup."
+  }
+}

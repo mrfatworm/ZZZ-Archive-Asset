@@ -195,6 +195,13 @@
       "is_leak": false,
       "rarity": 5,
       "attribute": "ether"
+    },
+    {
+      "id": 29,
+      "name": "羅賓",
+      "is_leak": false,
+      "rarity": 5,
+      "attribute": "ether"
     }
   ]
 }

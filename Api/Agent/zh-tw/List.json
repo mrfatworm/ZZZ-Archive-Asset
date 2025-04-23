@@ -328,7 +328,7 @@
       "specialty": "attack",
       "attribute": "electric",
       "attack_type": "slash",
-      "faction_id": 4
+      "faction_id": 9
     },
     {
       "id": 33,
@@ -340,6 +340,17 @@
       "attribute": "electric",
       "attack_type": "pierce",
       "faction_id": 4
+    },
+    {
+      "id": 34,
+      "name": "薇薇安",
+      "full_name": "薇薇安·班希",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "anomaly",
+      "attribute": "ether",
+      "attack_type": "pierce",
+      "faction_id": 10
     }
   ]
 }

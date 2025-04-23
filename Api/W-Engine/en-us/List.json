@@ -426,6 +426,13 @@
       "is_leak": false,
       "rarity": 5,
       "specialty": "stun"
+    },
+    {
+      "id": 62,
+      "name": "Flight of Fancy",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "anomaly"
     }
   ]
 }

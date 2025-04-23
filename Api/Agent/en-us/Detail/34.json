@@ -1,0 +1,251 @@
+{
+  "id": 34,
+  "name": "Vivian",
+  "full_name": "Vivian Banshee",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "anomaly",
+  "attribute": "ether",
+  "attack_type": "pierce",
+  "faction_id": 10,
+  "agent_background": "Vivian is a member of Mockingbird, skilled in gathering all kinds of intel. She's also a jack of many trades — cooking, mixology, translation, art forgery, electronics repair, and more. In the past, she apparently wandered without a home and was viewed as one who \"brought disaster,\" almost like a living omen of bad luck. It's said she can predict incoming misfortune through her tears, though there's no scientific proof of this ability. A loyal follower of Phaethon. Ever since your original account went inactive on Inter-Knot, she's been trying to track you down — digging for clues, running intense searches across the network. However, Master, she didn't find anything... all thanks to my efforts in keeping your cybersecurity airtight. Suggestion: Until her true intentions are clear, do not reveal your identity as Phaethon. In case you've already let your identity slip, be sure to lock your doors and wear proper sleepwear before going to bed. Based on her old blog posts, she's likely to express her admiration in... overly passionate and intense ways.",
+  "basic_data": {
+    "hp": 7673,
+    "atk": 853,
+    "def": 606,
+    "core_skill_enhancements": [
+      {
+        "name": "ATK",
+        "value": "+75"
+      },
+      {
+        "name": "Anomaly Mastery",
+        "value": "+36"
+      }
+    ]
+  },
+  "skills": {
+    "basic_attack": [
+      {
+        "name": "Feathered Strike",
+        "description": "Unleashes up to four attacks in front, dealing Physical DMG and Ether DMG.\nAfter triggering the fourth attack, enter the Noblewoman state.\nWith Flight Feathers available, holding Basic Attack during the fourth attack will activate the Fluttering Frock state."
+      },
+      {
+        "name": "Noblewoman - Waltz",
+        "description": "Press Basic Attack while in the Noblewoman state to activate:\nDash forward with an attack that deals Ether DMG and restores 1 Flight Feather upon hitting an enemy.\nCharacter is invulnerable while using this skill.\nIf a Perfect Dodge is triggered during the dash, gain 1 additional Flight Feather.\nIf Flight Feathers are available after the skill, enter the Fluttering Frock state, which can be canceled by holding Dodge when the skill is used."
+      },
+      {
+        "name": "Fluttering Frock - Suspension",
+        "description": "Press Basic Attack while in the Fluttering Frock state to activate:\nAttack an area ahead, dealing Ether DMG.\nAfter activation, this skill consumes all Flight Feathers, and each one consumed grants 1 Guard Feather.\nCharacter is invulnerable while using this skill.\nWhen switching characters during the Fluttering Frock state, Vivian will automatically perform Basic Attack: Fluttering Frock - Suspension.\nWhile in the Fluttering Frock state, press Dodge to exit the state."
+      },
+      {
+        "name": "Featherbloom",
+        "description": "After any squad member hits a target with an EX Special Attack, Vivian will consume 1 Guard Feather to launch Basic Attack: Featherbloom against the target, dealing Ether DMG, triggering at most once per use of a skill. This effect can trigger even while Vivian is off-field.\nA maximum of 5 Guard Feathers can be stored."
+      }
+    ],
+    "dodge": [
+      {
+        "name": "Lightstream",
+        "description": "A quick dash dodge.\nCharacter is invulnerable while using this skill."
+      },
+      {
+        "name": "Dainty Steps",
+        "description": "When in the Noblewoman state and about to be attacked, an automatic dodge will trigger, during which the character will be Invulnerable, but a Perfect Dodge will not be triggered.\nThis can trigger once each time the Noblewoman state is entered."
+      }
+    ],
+    "dash_attack": [
+      {
+        "name": "Silver Thorned Melody",
+        "description": "Launches a forward thrust at enemies in front, dealing Physical DMG."
+      }
+    ],
+    "dodge_counter": [
+      {
+        "name": "Wingblade Reverb",
+        "description": "Launches an attack on enemies ahead, dealing Physical DMG and Ether DMG.\nCharacter is invulnerable while using this skill.\nAfter activating the skill, enter the Noblewoman state.\nWhen there are Flight Feathers available, hold Basic Attack during skill activation to enter the Fluttering Frock state."
+      }
+    ],
+    "quick_assist": [
+      {
+        "name": "Frostwing Guard",
+        "description": "Launches an attack on enemies ahead, dealing Physical DMG and Ether DMG.\nCharacter is invulnerable while using this skill.\nAfter the skill activates, enter the Noblewoman state.\nWith Flight Feathers available, hold Basic Attack during skill activation to enter the Fluttering Frock state."
+      }
+    ],
+    "defensive_assist": [
+      {
+        "name": "Silver Umbrella Formation",
+        "description": "Parries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "assist_follow_up": [
+      {
+        "name": "Featherblade Execution",
+        "description": "Launch an attack at enemies ahead, dealing Ether DMG and gaining 2 Flight Feathers.\nCharacter is invulnerable while using this skill.\nAfter the skill activates enter the Fluttering Frock state, which can be canceled by holding Dodge during the skill."
+      }
+    ],
+    "special_attack": [
+      {
+        "name": "Song of Silver Wings",
+        "description": "Quickly attack forward, dealing Physical DMG and Ether DMG.\nAnti-Interrupt level is increased while using this skill."
+      }
+    ],
+    "ex_special_attack": [
+      {
+        "name": "Violet Requiem",
+        "description": "Unleash a powerful forward attack that deals massive Ether DMG and grants 3 Flight Feathers.\nCharacter is invulnerable while using this skill.\nEnter the Fluttering Frock state after using the skill. Hold Dodge during the skill to enter the Noblewoman state."
+      }
+    ],
+    "chain_attack": [
+      {
+        "name": "Chorus of Celestial Wings",
+        "description": "Launch a powerful attack on a large area of enemies ahead, dealing massive Ether DMG and gaining 2 Flight Feathers.\nCharacter is invulnerable while using this skill.\nAfter the skill activates, enter the Fluttering Frock state, which can be canceled by holding Dodge during the skill."
+      }
+    ],
+    "ultimate": [
+      {
+        "name": "Soaring Bird's Song",
+        "description": "Launch a powerful attack on a large area of enemies ahead, dealing massive Ether DMG and gaining 5 Flight Feathers.\nCharacter is invulnerable while using this skill.\nAfter"
+      }
+    ],
+    "core_passive": [
+      {
+        "name": "Dirge of Destiny",
+        "description": "When Basic Attack: Featherbloom hits a target that is suffering from an Ether, Electric, Fire, Physical, or Ice Anomaly, it will trigger Abloom, dealing additional Attribute Anomaly DMG. The additional DMG is 6.15%/3.2%/8%/0.75%/1.08% per 10 points of Anomaly Proficiency of the original Anomaly DMG.\nWhen Basic Attack: Fluttering Frock - Suspension or Basic Attack: Featherbloom hits a target suffering any Attribute Anomaly, it will inflict Vivian's Prophecy, causing the target to take Ether DMG equal to 55% of Vivian's ATK every 0.55s. This DMG can trigger additional DMG from Attribute Anomalies. Vivian's Prophecy ends when the target is no longer suffering an Attribute Anomaly.\nWhen entering the battlefield, Vivian gains 2 Flight Feathers."
+      }
+    ],
+    "additional_ability": [
+      {
+        "name": "Prophetic Tears",
+        "description": "When another character in your squad is an Anomaly character or shares the same attribute:\nWhenever another squad member applies an Attribute Anomaly to an enemy, Vivian will consume 1 Guard Feather to launch Basic Attack: Featherbloom on the target. This can trigger once every 0.5s.\nCorruption DMG dealt by all squad members and the Corruption status' Disorder DMG increases by 12%."
+      }
+    ]
+  },
+  "mindscape_cinema": [
+    {
+      "name": "Walking Into the Orchard in Spring",
+      "description": "When a total of 4 Guard Feathers are consumed, gain 1 Flight Feather.\nAll Attribute Anomaly DMG and Disorder DMG received by targets under Vivian's Prophecy increases by 16%."
+    },
+    {
+      "name": "Stormy Night, Stormy Night",
+      "description": "Vivian's Ether Anomaly Buildup Rate increases by 25%.\nThe benefits of Abloom from Anomaly Proficiency are raised to 130% of the original value, and 15% of the target's All-Attribute RES is ignored."
+    },
+    {
+      "name": "Another and the Same",
+      "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "he Wind Between the Reeds",
+      "description": "Basic Attack: Fluttering Frock - Suspension and Basic Attack: Featherbloom will always CRIT on hit, and they will also increase Vivian's ATK by 12% for 12s. Repeated triggers reset the duration.\nWhen entering the battlefield, Vivian immediately gains 5 Guard Feathers."
+    },
+    {
+      "name": "Sonnet",
+      "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Vivian",
+      "description": "Vivian's Ether DMG increases by 40%.\nWhen triggering a Perfect Dodge during Basic Attack: Noblewoman - Waltz's dash, or using EX Special Attack: Violet Requiem, gain 1 additional Flight Feather.\nLaunching Basic Attack: Fluttering Frock - Suspension consumes all Guard Feathers, the downward attack's area of effect increases, and upon hit, triggers a special instance of Abloom. Each additional Guard Feather consumed will increase the proportion of additional Anomaly DMG dealt by that instance of Abloom, consuming a maximum of 5 Guard Feathers to increase the DMG up to a maximum of 5 times the original."
+    }
+  ],
+  "level_material": {
+    "skill_ten": [
+      {
+        "id": 1,
+        "amount": 2467500
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 23,
+        "amount": 4
+      },
+      {
+        "id": 24,
+        "amount": 32
+      },
+      {
+        "id": 25,
+        "amount": 30
+      },
+      {
+        "id": 56,
+        "amount": 25
+      },
+      {
+        "id": 57,
+        "amount": 75
+      },
+      {
+        "id": 58,
+        "amount": 115
+      },
+      {
+        "id": 157,
+        "amount": 60
+      },
+      {
+        "id": 104,
+        "amount": 9
+      }
+    ],
+    "skill_max": [
+      {
+        "id": 1,
+        "amount": 3705000
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 23,
+        "amount": 4
+      },
+      {
+        "id": 24,
+        "amount": 32
+      },
+      {
+        "id": 25,
+        "amount": 30
+      },
+      {
+        "id": 56,
+        "amount": 25
+      },
+      {
+        "id": 57,
+        "amount": 75
+      },
+      {
+        "id": 58,
+        "amount": 250
+      },
+      {
+        "id": 68,
+        "amount": 5
+      },
+      {
+        "id": 157,
+        "amount": 60
+      },
+      {
+        "id": 104,
+        "amount": 9
+      }
+    ]
+  },
+  "suggest_w_engines": [
+    {
+      "id": 62,
+      "rarity": 5
+    }
+  ],
+  "suggest_drives": [
+    {
+      "id": 18,
+      "suit": 4
+    }
+  ]
+}

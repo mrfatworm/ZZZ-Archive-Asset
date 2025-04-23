@@ -1,0 +1,36 @@
+{
+  "id": 62,
+  "name": "Flight of Fancy",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "anomaly",
+  "background": "Birds in flight, stars in the sky, blossoms, parasols, and swirling skirts — unspoken feelings, yet emotions laid bare. Only when the moon begins to sigh does the flower bud dare to bloom, releasing a joyous bird. It weaves through the stars, gathering glimmers of starlight, and before dawn breaks, it lands beneath your eaves... shaking off a night full of whispered love.\n\n\"Lord Phaethon needs only Vivian. Lord Phaethon loves only Vivian. Lord Phaethon sees only Vivian... Chant that to it for 178 days, and you can give it to Lord Phaethon.\" — Vivian, fortune telling and voodoo are not scientific and offer no real value. Do not attempt them lightly",
+  "atk": 713,
+  "stat": {
+    "name": "Anomaly Proficiency",
+    "value": "90"
+  },
+  "skill": "Increases Anomaly Buildup Rate by 40%/46%/52%/58%/64%. When the equipper deals Ether DMG, their Anomaly Proficiency increases by 20/23/26/29/32 for 5s, stacking up to 6 times. This effect can trigger once every 0.5s, and repeated triggers reset the duration.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 400000
+    },
+    {
+      "id": 10,
+      "amount": 188
+    },
+    {
+      "id": 38,
+      "amount": 4
+    },
+    {
+      "id": 39,
+      "amount": 32
+    },
+    {
+      "id": 40,
+      "amount": 30
+    }
+  ]
+}
