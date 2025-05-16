@@ -433,6 +433,13 @@
       "is_leak": false,
       "rarity": 5,
       "specialty": "anomaly"
+    },
+    {
+      "id": 63,
+      "name": "千面日隕",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "attack"
     }
   ]
 }

@@ -1,0 +1,247 @@
+{
+  "id": 35,
+  "name": "Hugo",
+  "full_name": "Hugo Vlad",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "attack",
+  "attribute": "ice",
+  "attack_type": "slash",
+  "faction_id": 10,
+  "agent_background": "Hugo calls himself a collector and runs a fairly successful gallery, mingling with the \"elite\" of New Eridu. In truth, he's the leader of the phantom thieves syndicate, Mockingbird — and Lycaon's former partner. Despite his cruel (edgy and dramatic) words, deep down he has his own sense of fairness and justice. Records suggest that Hugo had a troubled childhood. As the illegitimate son of the Ravenlocks, a long-established TOPS family, he was rejected by his mother from an early age because of his heterochromatic eyes. His father bought him back like a cheap commodity, using him to provoke a cutthroat succession battle between his children. In that brutal struggle, the only one kind to Hugo — his sister, Serena — became the first to fall. The ones who orchestrated her death pinned the blame on Hugo, thinking it would destroy him. But to their shock, their father actually praised Hugo's actions, calling them the very traits a worthy heir should possess. After running away from his family, Hugo met Lycaon and Jack and learned to be a phantom thief. After Jack passed away, Hugo and Lycaon formed Mockingbird together. Later, during one of Mockingbird's missions, Hugo came face-to-face with his father. In a brief moment of hesitation, he chose not to take his revenge and kill him — an act of mercy that ended up costing the lives of many innocent people. His close friend Lycaon, due to a misunderstanding born from those circumstances, broke ties with him and ultimately left Mockingbird. After drifting on his own for a while, Hugo met Vivian, a girl who reminded him of his sister Serena. He took her under his wing and reformed the Mockingbird syndicate.\n\nBack during his time with the Ravenlock family, Hugo once ate a piece of cake that his older brother liked. In retaliation, the other children forced him to eat an entire table's worth of desserts. Ever since, the taste of anything sweet makes him want to throw up — likely due to PTSD. But due to his hypoglycemia, he needs sugar to keep his body functioning properly. Hugo forces himself to eat sweets over and over, pushing through the nausea to overcome the pain. Note: Neither Lycaon nor Vivian knows about this, and Hugo once asked you to keep it a secret from them.",
+  "basic_data": {
+    "hp": 7940,
+    "atk": 844,
+    "def": 616,
+    "core_skill_enhancements": [
+      {
+        "name": "ATK",
+        "value": "+75"
+      },
+      {
+        "name": "CRIT Rate",
+        "value": "+14.4%"
+      }
+    ]
+  },
+  "skills": {
+    "basic_attack": [
+      {
+        "name": "Dark Abyss Quartet",
+        "description": "Perform up to four attacks forward, dealing Physical DMG and Ice DMG.\nThe fourth attack is a shot. During this attack, hold Basic Attack to charge and perform a charged shot.\nAnti-Interrupt level is increased during the fourth attack, and received damage reduced by 40%."
+      },
+      {
+        "name": "Dark Abyss Concerto",
+        "description": "After the 4th hit of Basic Attack: Dark Abyss Quartet, the shot of Dodge Counter: Phantasm - Slash, or the shot of Quick Assist: Elegy, press or hold Basic Attack to activate:\nThrow the scythe forward to perform a slash, followed by a shot, dealing Ice DMG.\nDuring the shot, hold Basic Attack to charge and perform a charged shot.\nAnti-Interrupt level is increased while using this skill, and received damage reduced by 40%."
+      }
+    ],
+    "dodge": [
+      {
+        "name": "Phantasm",
+        "description": "A quick dash dodge.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "dash_attack": [
+      {
+        "name": "Phantasm - Shatter",
+        "description": "Launch a dashing attack at enemies in front, dealing Physical DMG."
+      }
+    ],
+    "dodge_counter": [
+      {
+        "name": "Phantasm - Slash",
+        "description": "Performs a series of attacks on enemies in front, dealing Ice DMG.\nDuring the skill, hold Basic Attack to launch a shot. During the shot, hold Basic Attack to charge and perform a charged shot.\nThe shot is considered a Basic Attack, with its DMG treated as Basic Attack DMG.\nAfter the skill is used, it can be directly followed up with the 4th hit of Basic Attack: Dark Abyss Quartet.\nDuring the skill's ranged phase, Anti-Interrupt Level is increased, and received damage is reduced by 40%.\nInvulnerable during the slashes and ranged retreat of the skill."
+      }
+    ],
+    "quick_assist": [
+      {
+        "name": "Elegy",
+        "description": "Performs a series of attacks on enemies in front, dealing Ice DMG.\nDuring the skill, hold Basic Attack to launch a shot. During the shot, hold Basic Attack to charge and perform a charged shot.\nThe shot is considered a Basic Attack, with its DMG treated as Basic Attack DMG.\nAfter the skill is used, it can be directly followed up with the 4th hit of Basic Attack: Dark Abyss Quartet.\nDuring the skill's ranged phase, Anti-Interrupt Level is increased, and received damage is reduced by 40%.\nInvulnerable during the slashes and ranged retreat of the skill."
+      }
+    ],
+    "defensive_assist": [
+      {
+        "name": "The End Has Not Come",
+        "description": "Parries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "assist_follow_up": [
+      {
+        "name": "Ace Reversal",
+        "description": "Dash forward and perform two slashes, dealing Ice DMG.\nAfter the skill is used, it can be directly followed up with the 4th hit of Basic Attack: Dark Abyss Quartet.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "special_attack": [
+      {
+        "name": "Soul Hunter - Judgment",
+        "description": "Spins the scythe and then unleashes a forward slash, dealing Ice DMG.\nAnti-Interrupt level is increased while using this skill."
+      }
+    ],
+    "ex_special_attack": [
+      {
+        "name": "Soul Hunter - Punishment",
+        "description": "Spins the scythe and then unleashes a forward slash, dealing Ice DMG.\nAnti-Interrupt level is increased while using this skill."
+      }
+    ],
+    "chain_attack": [
+      {
+        "name": "Trick of Fate",
+        "description": "Dash forward to perform a slash across a large area, then launch a shot, dealing massive Ice DMG.\nThe shot activated by this skill is considered a charged shot.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "ultimate": [
+      {
+        "name": "Blaspheme",
+        "description": "Dash forward to perform a slash across a large area, then launch a shot, dealing massive Ice DMG.\nThe shot activated by this skill is considered a charged shot.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "core_passive": [
+      {
+        "name": "Terminating Verdict",
+        "description": "When Chain Attack: Trick of Fate hits an enemy or Hugo's attacks Stun an enemy, Hugo gains the Dark Abyss Reverb state for 6s, and repeated triggers reset the duration. During this state, Hugo's CRIT Rate increases by 12% and CRIT DMG increases by 25%.\nWhen there are 1/2 Stun characters in your squad, Hugo's ATK increases by 300/900.\nWhen the Finishing Move of EX Special Attack: Soul Hunter - Punishment or Ultimate: Blaspheme hits an enemy while they are Stunned, it triggers the Totalize effect, increasing the DMG Multiplier of the skill's Finishing Move by 1000%. Additionally, the Totalize effect further increases the skill's DMG multiplier based on the remaining Stun time of the enemy when triggered: for each remaining second of Stun time from the portion that is less than or equal to 5s, the skill's DMG multiplier increases by 280%; for each remaining second of Stun time from the portion between 5 and 15s, the skill's DMG multiplier increases by 100%. The total increase can raise the skill's DMG multiplier by a maximum of 3400%.\nAfter Hugo triggers the Totalize effect, the enemy's Stunned state will immediately end. Based on the remaining Stun time at the moment Totalize is triggered, a certain amount of Daze will be accumulated. For every second of Stun time remaining, 5% Daze is accumulated, up to a maximum Daze equivalent to 25% of the enemy's maximum Daze.\nWhen EX Special Attack: Soul Hunter - Punishment hits an enemy, if the enemy is not Stunned, the Daze accumulated by the skill increases by 20%."
+      }
+    ],
+    "additional_ability": [
+      {
+        "name": "Prelude to Finality",
+        "description": "When another character in your squad is a Stun character or shares the same attribute:\nChain Attack: Trick of Fate's DMG increases by 15%, with a further increase of 35% against normal enemies. When Totalize is triggered, the DMG dealt by the skill increases by 40%. EX Special Attack: Soul Hunter - Punishment generates an additional 20 Energy when triggering Totalize on normal enemies. The Energy generation effect can trigger once every 30s."
+      }
+    ]
+  },
+  "mindscape_cinema": [
+    {
+      "name": "Child of Hatred",
+      "description": "When triggering the Totalize effect in the Dark Abyss Reverb state, the skill's CRIT Rate is increased by an additional 12%, and CRIT DMG by 30%."
+    },
+    {
+      "name": "The Child Within",
+      "description": "When Ultimate: Blaspheme triggers Totalize, it will not end the enemy's Stunned state.\nAdditionally, when Totalize is triggered, the skill will ignore 15% of the enemy's DEF."
+    },
+    {
+      "name": "Fruit of the Poisonous Tree",
+      "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Dramatic Theory",
+      "description": "After a Charged Shot hits an enemy, Hugo's attacks against that target will ignore 12% of that target's Ice RES for 15s, repeated triggers reset the duration."
+    },
+    {
+      "name": "Nirvana",
+      "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Crown of Thorns",
+      "description": "All shooting attacks that hit enemies trigger the Dark Abyss Reverb state, lasting up to 6s, and repeated triggers reset the duration.\nAdditionally, whenever any skill triggers the Totalize effect, that DMG is further increased by 60%.\nThe Finishing Move of EX Special Attack: Soul Hunter - Punishment also triggers the Totalize effect when hitting an enemy that isn't Stunned, boosting the DMG multiplier of the Finishing Move by a fixed 1,000 %."
+    }
+  ],
+  "level_material": {
+    "skill_ten": [
+      {
+        "id": 1,
+        "amount": 2467500
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 17,
+        "amount": 4
+      },
+      {
+        "id": 18,
+        "amount": 32
+      },
+      {
+        "id": 19,
+        "amount": 30
+      },
+      {
+        "id": 59,
+        "amount": 25
+      },
+      {
+        "id": 60,
+        "amount": 75
+      },
+      {
+        "id": 61,
+        "amount": 115
+      },
+      {
+        "id": 150,
+        "amount": 60
+      },
+      {
+        "id": 102,
+        "amount": 9
+      }
+    ],
+    "skill_max": [
+      {
+        "id": 1,
+        "amount": 3705000
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 17,
+        "amount": 4
+      },
+      {
+        "id": 18,
+        "amount": 32
+      },
+      {
+        "id": 19,
+        "amount": 30
+      },
+      {
+        "id": 59,
+        "amount": 25
+      },
+      {
+        "id": 60,
+        "amount": 75
+      },
+      {
+        "id": 61,
+        "amount": 250
+      },
+      {
+        "id": 68,
+        "amount": 5
+      },
+      {
+        "id": 150,
+        "amount": 60
+      },
+      {
+        "id": 102,
+        "amount": 9
+      }
+    ]
+  },
+  "suggest_w_engines": [
+    {
+      "id": 63,
+      "rarity": 5
+    },
+    {
+      "id": 32,
+      "rarity": 4
+    },
+    {
+      "id": 54,
+      "rarity": 4
+    }
+  ],
+  "suggest_drives": [
+    {
+      "id": 3,
+      "suit": 4
+    }
+  ]
+}

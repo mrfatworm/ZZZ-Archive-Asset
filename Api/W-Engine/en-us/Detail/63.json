@@ -1,0 +1,36 @@
+{
+  "id": 60,
+  "name": "Myriad Eclipse",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "attack",
+  "background": "A refined collector, a cunning phantom thief, a loathsome swindler, an arrogant, self-important bastard... The world has a thousand identities for him. The elite despise his very presence, while the common folk hail him as a symbol of justice. In the alleys, they talk of him as a criminal legend walking the razor's edge. Among nobles, speaking of him is like lifting the lid of a cursed tomb. He wears a thousand masks — yet none reveal who he truly is. \"I'll live on in a thousand different tales.\" — Hugo",
+  "atk": 713,
+  "stat": {
+    "name": "CRIT Rate",
+    "value": "24%"
+  },
+  "skill": "Increases CRIT DMG by 45%/51.75%/58.5%/65.25%/72%. When using an EX Special Attack, Chain Attack, or Ultimate to deal Ice DMG, the equipper gains the Absolute Zero Death Sentence effect for 3s. While Absolute Zero Death Sentence is active, the character ignores 25%/28.75%/32.5%/36.25%/40% of the enemy's DEF when landing a hit.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 400000
+    },
+    {
+      "id": 10,
+      "amount": 188
+    },
+    {
+      "id": 32,
+      "amount": 4
+    },
+    {
+      "id": 33,
+      "amount": 32
+    },
+    {
+      "id": 34,
+      "amount": 30
+    }
+  ]
+}

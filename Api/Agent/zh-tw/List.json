@@ -351,6 +351,17 @@
       "attribute": "ether",
       "attack_type": "pierce",
       "faction_id": 10
+    },
+    {
+      "id": 35,
+      "name": "雨果",
+      "full_name": "雨果·維拉德",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "attack",
+      "attribute": "ice",
+      "attack_type": "slash",
+      "faction_id": 10
     }
   ]
 }
