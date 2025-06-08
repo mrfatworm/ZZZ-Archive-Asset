@@ -1,0 +1,36 @@
+{
+  "id": 66,
+  "name": "Roaring Fur-nace",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "stun",
+  "background": "Goodbye to the fate of the past, goodbye to the childhood that slipped away so quickly, goodbye to my father’s embrace and my mother’s smile, goodbye to the claws and the stripes, goodbye to the unmoving mountains and the clouds that never linger, goodbye to my mentor and old friends, goodbye to me, goodbye to me.\nAs long as the world remembers, I once roared with courage.\n\n“Never fear! Your senior is here!” — Fufu’s line when coming to the rescue.",
+  "atk": 713,
+  "stat": {
+    "name": "ATK",
+    "value": "30%"
+  },
+  "skill": "The Daze dealt by the equipper’s EX Special Attack, Chain Attack, and Ultimate increases by 28%/32.2%/36.4%/40.6%/44.8%.\nWhen using a Chain Attack or Ultimate to deal Fire DMG, the DMG dealt by all squad members increases by 10%/11.5/13%/14.5%/16%, stacking up to 2 times and lasting 30s. The duration of each stack is calculated separately. Triggers once per use of a skill. Only one instance of this effect can exist in the same squad.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 400000
+    },
+    {
+      "id": 10,
+      "amount": 188
+    },
+    {
+      "id": 35,
+      "amount": 4
+    },
+    {
+      "id": 36,
+      "amount": 32
+    },
+    {
+      "id": 37,
+      "amount": 30
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "id": 10,
+  "name": "Pan Yinhu",
+  "full_name": "Pan Yinhu",
+  "is_leak": false,
+  "rarity": 4,
+  "specialty": "defense",
+  "attribute": "physical",
+  "attack_type": "strike",
+  "faction_id": 11,
+  "agent_background": "Pan Yinhu, disciple of Yunkui Summit, serves as both the head chef and financial manager of Suibian Temple. He's proficient in martial arts, and an expert in pressure-point techniques. As the one managing Suibian Temple's money, he's a master at keeping costs down and can bargain a 5,000 Denny piece of meat down to 500. If he can make something at home, he refuses to purchase it at a store, and no matter which big supermarket or shop you name, he's got a coupon for it tucked in his pocket. Thanks to him, the members of Suibian Temple enjoy delicious yet budget-friendly meals every day. As the head of the kitchen, he demands precise flavor profiles and pays keen attention to his friends' opinions. What's more, given his years of frugality, it's safe to assume that both the group's treasury and his secret piggy bank have ballooned to jaw-dropping levels.",
+  "basic_data": {
+    "hp": 8453,
+    "atk": 586,
+    "def": 712,
+    "core_skill_enhancements": [
+      {
+        "name": "ATK",
+        "value": "+75"
+      },
+      {
+        "name": "Energy Regen",
+        "value": "+0.36/s"
+      }
+    ]
+  },
+  "skills": {
+    "basic_attack": [
+      {
+        "name": "Unyielding Strikes",
+        "description": "Launches up to four consecutive melee attacks, dealing Physical DMG."
+      }
+    ],
+    "dodge": [
+      {
+        "name": "Light as a Swallow",
+        "description": "A quick dash dodge.\n\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "dash_attack": [
+      {
+        "name": "Sizzling Oil Supreme",
+        "description": "Perform a quick forward melee attack, dealing Physical DMG."
+      }
+    ],
+    "dodge_counter": [
+      {
+        "name": "Moving Mountains and Seas",
+        "description": "Perform a melee attack on enemies in front, dealing Physical DMG.\n\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "quick_assist": [
+      {
+        "name": "Lift Your Gaze to Good Fortune",
+        "description": "Perform a melee attack on enemies in front, dealing Physical DMG.\n\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "defensive_assist": [
+      {
+        "name": "Intimidating Presence",
+        "description": "Parries the enemy's attack, dealing massive Daze. This skill excels at parrying enemy attacks and reduces the consumption of Assist Points when the character is under intense attacks.\n\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "assist_follow_up": [
+      {
+        "name": "Ride the Momentum",
+        "description": "Perform a melee attack on enemies in front, dealing Physical DMG.\n\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "special_attack": [
+      {
+        "name": "Sonic Pressure-Point Strike",
+        "description": "Delivers a forward melee technique while tossing firecrackers, dealing Physical DMG.\n\nAnti-Interrupt level is increased while using this skill."
+      },
+      {
+        "name": "Touch of Death",
+        "description": "Special Attack: Touch of Death attacks centered on the enemy, dealing Physical DMG.\n\nThe skill can be chained up to three times. Each use of Special Attack: Touch of Death consumes 1 point of Break Force.\n\nWhen Pan Yinhu is the active character, DMG received during the skill is reduced by 40% and Anti-Interrupt Level is increased.\n\nIf he isn't the active character, he becomes Invulnerable."
+      }
+    ],
+    "ex_special_attack": [
+      {
+        "name": "Mountainous Pulse Strike",
+        "description": "EX Special Attack: Mountainous Pulse Strike unleashes a powerful strike forward, dealing Physical DMG.\n\nGain 3 points of Break Force on activation. Upon hitting an enemy, it triggers the Quick Assist of the previous character in the squad.\n\nAgents who enter the field via this Quick Assist will gain the Sheer Force bonus from the Core Passive. After switching out, Pan Yinhu will stay on the field and automatically launch Special Attack: Touch of Death until his Break Force runs out, where he then leaves the field.\n\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "chain_attack": [
+      {
+        "name": "Anointed with Wok Steam",
+        "description": "Hop onto the Iron Wok and spin rapidly to ram into enemies, dealing massive Physical DMG to all enemies on the way. Character is invulnerable while using this skill."
+      }
+    ],
+    "ultimate": [
+      {
+        "name": "A Feast Fit for an Emperor!",
+        "description": "Perform a technique that compresses qi into fried rice and catapults it at foes, dealing massive Physical DMG and healing all squad members for 960 HP, while also applying a 8s heal over time on all squad members, recovering 1.6% HP/s.\n\nCharacter is invulnerable while using this skill.\n\n*Stats shown are at Base level."
+      }
+    ],
+    "core_passive": [
+      {
+        "name": "Meridian Enlightenment",
+        "description": "For a brief period when Pan Yinhu's EX Special Attack: Mountainous Pulse Strike hits an enemy and triggers Quick Assist, the next Agent entering through a Quick Assist or Chain Attack will gain the Meridian Flow effect. This effect provides a Sheer Force boost equal to 18% of Pan Yinhu's initial ATK and lasts for 25s. The Sheer Force provided by this effect cannot exceed 540 points.\n\n"
+      }
+    ],
+    "additional_ability": [
+      {
+        "name": "Iron Stomach",
+        "description": "When another character in your squad is a Rupture character or shares the same Faction:\n\nWhen Pan Yinhu hits an enemy with Special Attack: Touch of Death, the enemy suffers the Depleted Qi effect, increasing all DMG against the target by 20%. Each hit of Special Attack: Touch of Death inflicts a 10s Depleted Qi effect. This effect can't stack, but repeated hits on the same enemy will extend the duration."
+      }
+    ]
+  },
+  "mindscape_cinema": [
+    {
+      "name": "Qi Shield",
+      "description": "All units deal 10% increased DMG to enemies affected by Depleted Qi."
+    },
+    {
+      "name": "Yunkui Pressure-Point Strike",
+      "description": "For every 6 points of Break Force consumed, Pan Yinhu will recover 4 Energy, and the Depleted Qi effect applied when Special Attack: Touch of Death hits an enemy will have its duration increased to 12s."
+    },
+    {
+      "name": "Non-Meridian Pressure Point",
+      "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "First-Class Head Chef",
+      "description": "When Ultimate: A Feast Fit for an Emperor! heals all squad members, the HP recovery is increased by 25%, and the healing over time effect is increased by 25%. On activating Ultimate: A Feast Fit for an Emperor!, gain the Backup Provisions effect. Whenever any character in the squad loses HP, consume the Backup Provisions effect to instantly restore 50% of the HP recovered with Ultimate: A Feast Fit for an Emperor!'s instant HP recovery effect. This effect cannot stack."
+    },
+    {
+      "name": "\"Thiren\"",
+      "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Meridian Theory",
+      "description": "The Meridian Flow effect provided by Core Passive: Meridian Enlightenment increases by an extra 6% of Pan Yinhu's initial ATK. The maximum Sheer Force provided by this effect increases to 720."
+    }
+  ],
+  "level_material": {
+    "skill_ten": [
+      {
+        "id": 1,
+        "amount": 2467500
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 29,
+        "amount": 4
+      },
+      {
+        "id": 30,
+        "amount": 32
+      },
+      {
+        "id": 31,
+        "amount": 30
+      },
+      {
+        "id": 53,
+        "amount": 25
+      },
+      {
+        "id": 54,
+        "amount": 75
+      },
+      {
+        "id": 55,
+        "amount": 115
+      },
+      {
+        "id": 159,
+        "amount": 60
+      },
+      {
+        "id": 105,
+        "amount": 9
+      }
+    ],
+    "skill_max": [
+      {
+        "id": 1,
+        "amount": 3705000
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 29,
+        "amount": 4
+      },
+      {
+        "id": 30,
+        "amount": 32
+      },
+      {
+        "id": 31,
+        "amount": 30
+      },
+      {
+        "id": 53,
+        "amount": 25
+      },
+      {
+        "id": 54,
+        "amount": 75
+      },
+      {
+        "id": 55,
+        "amount": 250
+      },
+      {
+        "id": 68,
+        "amount": 5
+      },
+      {
+        "id": 159,
+        "amount": 60
+      },
+      {
+        "id": 105,
+        "amount": 9
+      }
+    ]
+  },
+  "suggest_w_engines": [
+    {
+      "id": 64,
+      "rarity": 4
+    },
+    {
+      "id": 50,
+      "rarity": 5
+    }
+  ],
+  "suggest_drives": [
+    {
+      "id": 16,
+      "suit": 4
+    },
+    {
+      "id": 3,
+      "suit": 2
+    }
+  ]
+}

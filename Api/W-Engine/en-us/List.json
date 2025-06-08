@@ -433,6 +433,34 @@
       "is_leak": false,
       "rarity": 5,
       "specialty": "anomaly"
+    },
+    {
+      "id": 63,
+      "name": "Myriad Eclipse",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "attack"
+    },
+    {
+      "id": 64,
+      "name": "Tremor Trigram Vessel",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "defense"
+    },
+    {
+      "id": 65,
+      "name": "Qingming Birdcage",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "rupture"
+    },
+    {
+      "id": 66,
+      "name": "Roaring Fur-nace",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "stun"
     }
   ]
 }

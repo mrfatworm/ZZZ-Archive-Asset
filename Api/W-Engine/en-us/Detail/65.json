@@ -1,0 +1,36 @@
+{
+  "id": 65,
+  "name": "Qingming Birdcage",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "rupture",
+  "background": "Once a disciple of Yunkui, and now the sect leader.\nYunkui Summit has always upheld the duty of saving the world and helping others. Whenever Eridu faces disaster, a Yunkui disciple always steps up... until the day the old capital fell.\nTime can allow new cities to rise and turn the old capital into ruins, but it cannot erase the past.\nThough she traveled far and wide, trying to put the past behind her. Yet wherever she went, looking back, it always seemed as though everything was still right there in front of her.\n\n\"Rivers may shift, but old dreams are hard to forget.\" —Yixuan",
+  "atk": 743,
+  "stat": {
+    "name": "HP",
+    "value": "30%"
+  },
+  "skill": "CRIT Rate increases by 20%/23%/26%/29%/32%. When the equipper launches an EX Special Attack, the character gains 1 stack of Qingming Companion effect, stacking up to 2 times and lasting 15s. On entering combat, immediately gain 2 stacks. Repeated triggers reset the duration. Each stack of the Qingming Companion effect increases the equipper's Ether DMG by 8%/9.2%/10.4%/11.6%/12.8%, and increases Ultimate and EX Special Attack Ether Sheer DMG by 10%/11.5%/13%/14.5%/16%.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 400000
+    },
+    {
+      "id": 10,
+      "amount": 188
+    },
+    {
+      "id": 72,
+      "amount": 4
+    },
+    {
+      "id": 73,
+      "amount": 32
+    },
+    {
+      "id": 74,
+      "amount": 30
+    }
+  ]
+}

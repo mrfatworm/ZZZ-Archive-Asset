@@ -362,6 +362,39 @@
       "attribute": "ice",
       "attack_type": "slash",
       "faction_id": 10
+    },
+    {
+      "id": 36,
+      "name": "Pan Yinhu",
+      "full_name": "Pan Yinhu",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "defense",
+      "attribute": "physical",
+      "attack_type": "strike",
+      "faction_id": 11
+    },
+    {
+      "id": 37,
+      "name": "Yixuan",
+      "full_name": "Yixuan",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "rupture",
+      "attribute": "ether",
+      "attack_type": "pierce",
+      "faction_id": 11
+    },
+    {
+      "id": 38,
+      "name": "Ju Fufu",
+      "full_name": "Ju Fufu",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "stun",
+      "attribute": "fire",
+      "attack_type": "strike",
+      "faction_id": 11
     }
   ]
 }

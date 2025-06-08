@@ -1,0 +1,252 @@
+{
+  "id": 38,
+  "name": "Ju Fufu",
+  "full_name": "Ju Fufu",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "stun",
+  "attribute": "fire",
+  "attack_type": "strike",
+  "faction_id": 11,
+  "agent_background": "Ju Fufu, a rare tiger Thiren of New Eridu. She looks small and is still young, but she's the most senior disciple of Suibian Temple and one of Yixuan's first disciples.\n\n\"Able to deal with anything,\" \"can even make Shifu listen,\" \"super patient and meticulous teacher,\" \"has great taste when choosing restaurants for teambuilding.\"\n—Yunkui Summit trainee performance review, peer evaluation\n\n\"Always messing up the tasks given by Shifu,\" \"doesn't command respect in speech or combat,\" \"doesn't know how to act tough against bad guys,\" \"juniors are more skilled.\"\n—Yunkui Summit trainee performance review, self-evaluation\n\n\"'The most skilled senior ever who can do anything, a righteous hero with righteous might' is what I heard her say when I passed by her room. Hm... I concur.\"\n—Yunkui Summit trainee performance review, Shifu's evaluation",
+  "basic_data": {
+    "hp": 8250,
+    "atk": 765,
+    "def": 597,
+    "core_skill_enhancements": [
+      {
+        "name": "ATK",
+        "value": "+75"
+      },
+      {
+        "name": "CRIT Rate",
+        "value": "+14.4%"
+      }
+    ]
+  },
+  "skills": {
+    "basic_attack": [
+      {
+        "name": "Tiger Seven Forms - Flaming Claw",
+        "description": "Slash forward up to four times, dealing Physical DMG and Fire DMG\nDuring the 3rd hit, repeatedly press to maintain the combo and keep striking the enemy.\nDuring the 3rd hit, hold or pause before pressing to chaininto the 4th hit.\nDuring the 3rd hit, Anti-Interrupt Level is increased, and DMG received is reduced by 40%."
+      },
+      {
+        "name": "Hu Wei",
+        "description": "During combat, Hu Wei will automatically attack enemies, dealing Fire DMG\nUpon hitting an enemy, gain 20 points of Might, triggering up to once per use of a skill. The maximum for Might is 200."
+      }
+    ],
+    "dodge": [
+      {
+        "name": "Dodge: Tiger",
+        "description": "A quick dash dodge.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "dash_attack": [
+      {
+        "name": "Tiger Seven Forms - Tiger Charge",
+        "description": "Perform a quick slash forward, dealing Physical DMG."
+      },
+      {
+        "name": "Tiger Seven Forms - Mountain King's Game",
+        "description": "After using Dash Attack: Tiger Seven Forms - Tiger Charge, hold [Basic Attack] to activate:\nEnter a high-speed spinning state. While in this state, use the joystick to move and deal Physical DMG upon contact with enemies.\nAfter Ju Fufu gains Momentum from other skills, she will be surrounded by flames in the high-speed spinning state. Upon contact with enemies, 1 point of Momentum is consumed, changing the DMG to Fire DMG and granting 25 points of Might. The maximum for Momentum is 15.\nWhen dealing Fire DMG, if Might is above 100 points, 100 points of\nMight will be automatically consumed to trigger Chain Attack:\nSuppressing Tiger Cauldron.\nReleasing [Basic Attack] will have Ju Fufu exit the spinning state and throw Hu Wei to attack enemies. When switching to another character,\nJu Fufu will remain in the spinning state and attempt to collide with the nearest enemy.\nWhile Ju Fufu is the currently active character, DMG taken during the skill is reduced by 40%, and Anti-Interrupt Level is increased. If not the active character, she becomes invulnerable."
+      }
+    ],
+    "dodge_counter": [
+      {
+        "name": "Tiger Seven Forms - Reignited Mountain",
+        "description": "Perform multiple slashes on enemies ahead, dealing Fire DMG\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "quick_assist": [
+      {
+        "name": "Decisive Stomp",
+        "description": "Slashes enemies in front, dealing Fire DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "defensive_assist": [
+      {
+        "name": "Steadfast Crouching Tiger",
+        "description": "Parries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "assist_follow_up": [
+      {
+        "name": "Feral Blazing Maw",
+        "description": "Slash forward at enemies, then use Hu Wei to follow up with a downward attack, dealing Fire DMG.\nGain 1 point of Momentum upon activation at most once every 10s.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "special_attack": [
+      {
+        "name": "Tiger Seven Forms - Mountain-Descending Tiger",
+        "description": "Perform a spinning slash forward, followed by a falling slash, ealing Fire DMG.\nAnti-Interrupt level is increased while using this skill."
+      }
+    ],
+    "ex_special_attack": [
+      {
+        "name": "Tiger Seven Forms Alt - Mountain-Descending Savage Tiger",
+        "description": "Swing Hu Wei forward for a powerful strike, dealing massive Fire DMG\nUpon activation, gain 3 points of Momentum and 80 points of Might.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "chain_attack": [
+      {
+        "name": "Tiger Cauldron Collapse",
+        "description": "Swing Hu Wei to deliver a powerful strike to enemies in a small area ahead, dealing massive Fire DMG\nCharacter is invulnerable while using this skill."
+      },
+      {
+        "name": "Suppressing Tiger Cauldron",
+        "description": "With at least 100 points of Might, after triggering a Chain Attack, automatically activate:\nConsume 100 Might to open Hu Wei and fire flames and popcorn at enemies, striking them in a small area ahead, dealing massive Fire DMG\nIf Momentum is available, and while not the active character, Fiery Spin will activate after the skill ends.\nThis is an Aftershock. Character is invulnerable while using this skill."
+      }
+
+    ],
+    "ultimate": [
+      {
+        "name": "Tiger Seven Forms - Raging Tiger Explosion",
+        "description": "Perform two downward attacks with Hu Wei, dealing massive Fire DMG\nUpon activation, gain 6 points of Momentum and 100 points of Might.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "core_passive": [
+      {
+        "name": "Fu-rocious Might",
+        "description": "When Ju Fufu has yet to use Hu Wei, it will automatically attack enemies and gain Might upon hitting them.\nWhen Hu Wei hits an enemy and has at least 100 Might, and Ju Fufu is not the currently active character, Ju Fufu will launch Chain Attack: Suppressing Tiger Cauldron centered around the target enemy. Upon activation, all squad members gain the Tiger's Roar effect: CRIT DMG increases by 20%, and when Ju Fufu's initial ATK is greater than or equal to 2,800, every additional 100 ATK further increases CRIT DMG by 5%, up to a maximum additional increase of 30%.\nWhile in the Tiger's Roar state, character Chain Attack/Ultimate DMG increases by 20%/40%.\nThe Tiger's Roar state lasts for 30s. Repeated triggers reset the duration. While Ju Fufu is in the Tiger's Roar state, Impact increases by 50."
+      }
+    ],
+    "additional_ability": [
+      {
+        "name": "Ability: Aura of Authority",
+        "description": "When another character in your squad is an Attack or Rupture character:\nThe maximum Decibels for all characters in the squad increases by 1,000. When an Attack or Rupture character uses an Ultimate, that character gains 300 Decibels."
+      }
+    ]
+  },
+  "mindscape_cinema": [
+    {
+      "name": "Super Scary Little Tiger",
+      "description": "Upon entering combat, Ju Fufu's CRIT Rate increases by 12%, and she immediately gains 100 Might. When Ju Fufu's Chain Attack hits an enemy, when the target is Stunned, the target's Stun DMG Multiplier increases by 35%, lasting for 30s."
+    },
+    {
+      "name": "Almighty Qingming Warrior",
+      "description": "While in the Tiger's Roar state, character CRIT DMG increases by an additional 22%.\nWhenever any character activates an Ultimate, Ju Fufu gains 3 points of Momentum."
+    },
+    {
+      "name": "Righteous Young Hero",
+      "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Monster-Slaying Tiger Mystic",
+      "description": "While Ju Fufu is in the Tiger's Roar state, her CRIT DMG increases by 35%."
+    },
+    {
+      "name": "Unrivaled Almighty Senior",
+      "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Roar of My Inner Tiger",
+      "description": "Ju Fufu's Chain Attack DMG increases by 30%.\nUpon consuming Momentum and hitting an enemy in the high-speed spinning state, fire 3 popcorns, each dealing 160% of Fufu's ATK as DMG. This DMG is treated as Chain Attack DMG."
+    }
+  ],
+  "level_material": {
+    "skill_ten": [
+      {
+        "id": 1,
+        "amount": 2467500
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 20,
+        "amount": 4
+      },
+      {
+        "id": 21,
+        "amount": 32
+      },
+      {
+        "id": 22,
+        "amount": 30
+      },
+      {
+        "id": 56,
+        "amount": 25
+      },
+      {
+        "id": 57,
+        "amount": 75
+      },
+      {
+        "id": 58,
+        "amount": 115
+      },
+      {
+        "id": 159,
+        "amount": 60
+      },
+      {
+        "id": 105,
+        "amount": 9
+      }
+    ],
+    "skill_max": [
+      {
+        "id": 1,
+        "amount": 3705000
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 20,
+        "amount": 4
+      },
+      {
+        "id": 21,
+        "amount": 32
+      },
+      {
+        "id": 22,
+        "amount": 30
+      },
+      {
+        "id": 56,
+        "amount": 25
+      },
+      {
+        "id": 57,
+        "amount": 75
+      },
+      {
+        "id": 58,
+        "amount": 250
+      },
+      {
+        "id": 68,
+        "amount": 5
+      },
+      {
+        "id": 159,
+        "amount": 60
+      },
+      {
+        "id": 105,
+        "amount": 9
+      }
+    ]
+  },
+  "suggest_w_engines": [
+    {
+      "id": 66,
+      "rarity": 5
+    }
+  ],
+  "suggest_drives": [
+    {
+      "id": 20,
+      "suit": 4
+    },
+    {
+      "id": 5,
+      "suit": 2
+    }
+  ]
+}

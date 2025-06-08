@@ -1,0 +1,36 @@
+{
+  "id": 64,
+  "name": "Tremor Trigram Vessel",
+  "is_leak": false,
+  "rarity": 4,
+  "specialty": "defense",
+  "background": "The art of acupoint is much like a chef in the kitchen. First, you explore the meridians, which is like rinsing the ingredients; then, you warm your palms, akin to heating the pan; and with two fingers pressing on the laughter point, the sound of laughter is like stir-frying. Practitioners must never recklessly strike a person's fatal point — it's like pouring hot oil into a stove, causing a disaster.\n\n\"This little ball is darting between the acupoints, just like the fish balls I fling when making stir-fried noodles on the hot iron plate.\" —Pan Yinhu, distracted by random thoughts while doing acupoint memory training with a wooden panda sculpture.",
+  "atk": 624,
+  "stat": {
+    "name": "ATK",
+    "value": "25%"
+  },
+  "skill": "The equipper's EX Special Attack and Ultimate DMG increases by 25%/28.7%/32.5%/36.2%/40%. Whenever any squad member takes DMG or recovers HP, the equipper gains 2/2.3/2.6/2.9/3.2 Energy. This effect can trigger once every 5s.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 320000
+    },
+    {
+      "id": 10,
+      "amount": 151
+    },
+    {
+      "id": 44,
+      "amount": 3
+    },
+    {
+      "id": 45,
+      "amount": 26
+    },
+    {
+      "id": 46,
+      "amount": 24
+    }
+  ]
+}

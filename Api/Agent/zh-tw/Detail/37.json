@@ -1,0 +1,263 @@
+{
+  "id": 37,
+  "name": "Yixuan",
+  "full_name": "Yixuan",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "rupture",
+  "attribute": "ether",
+  "attack_type": "pierce",
+  "faction_id": 11,
+  "agent_background": "Yixuan is the 13th High Preceptor of Yunkui Summit and a Void Hunter-level investigator, officially recognized by Mayor Mayflower. She was once an orphan, wandering the world with her sister from a young age. Later, the then-High Preceptor of Yunkui Summit took them in, and they became disciples, learning the craft of Yunkui Summit. During this time, Yixuan demonstrated exceptional talent. No matter the technique, she would quickly master it, not only understanding it thoroughly but also creating her own unique techniques. The Qingming Bird was one of the special techniques she and her sister developed together, which helped her eliminate enemies and banish evil spirits in various difficult and dangerous situations.\n\nAfter becoming the sect's High Preceptor, she accepted an invitation from Mayor Mayflower and joined the Hollow Investigative Association as a partnered special investigator. After becoming High Preceptor, Yixuan took in many talented disciples to continue Yunkui Summit's lineage. However, her approach is rather casual, and often, even when teaching by example, her disciples can only guess her intentions... Yet, Yixuan isn't troubled by this, as she believes there's no standard answer to the so-called \"right path.\" What matters to her is that her disciples find their own \"right path.\" Of course, if they can understand and learn on their own, that's even better. As their Shifu, she simply lets things unfold naturally.",
+  "basic_data": {
+    "hp": 7953,
+    "atk": 872,
+    "def": 441,
+    "core_skill_enhancements": [
+      {
+        "name": "HP",
+        "value": "+420"
+      },
+      {
+        "name": "CRIT Rate",
+        "value": "+14.4%"
+      }
+    ]
+  },
+  "skills": {
+    "basic_attack": [
+      {
+        "name": "霄雲勁",
+        "description": "向前方進行至多五段的攻擊，造成玄墨傷害， 招式第三段與第四段期間抗打斷等級提升。"
+      },
+      {
+        "name": "墨影凝雲",
+        "description": "長按發動：展開大太極陣，造成玄墨傷害。\n\n招式結束時自動釋放[普通攻擊：霄雲勁]第五段攻擊。\n\n招式發動期間抗打斷等級提升，受到的傷害降低40%。"
+      },
+      {
+        "name": "玄墨極陣",
+        "description": "擁有[玄墨值]時在[閃避：清霄同遊]招式期間點按[普通攻擊]或擁有[玄墨值]時長按[閃避]發動：\n\n展開陣法，持續造成玄墨傷害。\n\n招式結束時自動釋放[普通攻擊：青溟震擊]。\n\n動作持續引導期間，持續回復閃能，每秒回復7點，最多3秒。\n\n招式發動期間擁有無敵效果且進入極限視域狀態。"
+      },
+      {
+        "name": "青溟震擊",
+        "description": "發動[普通攻擊：玄墨極陣]達到最大時長自動釋放：\n\n張開翅膀發動爆炸攻擊，造成大量玄墨傷害。\n\n招式發動期間擁有無敵效果。"
+      }
+    ],
+    "dodge": [
+      {
+        "name": "隱雲身法",
+        "description": "快速的衝刺閃避。\n\n招式發動期間擁有無敵效果。"
+      },
+      {
+        "name": "清霄同遊",
+        "description": "拖曳搖桿時長按[閃避]發動：\n\n進入可高速移動的[輕身]狀態，當處於勘域模式中，在[輕身]狀態下可自動收集一定範圍內的物資收集點。\n\n在[輕身]狀態下使用搖桿控制方向，鬆開搖桿則會停下。\n\n發動招式瞬間擁有無敵效果。"
+      }
+    ],
+    "dash_attack": [
+      {
+        "name": "凌雲破",
+        "description": "向前方進行突進攻擊，造成玄墨傷害。"
+      }
+    ],
+    "dodge_counter": [
+      {
+        "name": "除祟一擊",
+        "description": "對前方敵人發動連續攻擊，造成玄墨傷害。\n\n招式發動期間擁有無敵效果。"
+      }
+    ],
+    "quick_assist": [
+      {
+        "name": "流雲影身",
+        "description": "對前方敵人發動連續攻擊，造成玄墨傷害。\n\n招式發動期間擁有無敵效果。"
+      }
+    ],
+    "defensive_assist": [
+      {
+        "name": "清霄勁",
+        "description": "招架敵人的攻擊，累積大量失衡值。\n\n招式發動期間擁有無敵效果。"
+      }
+    ],
+    "assist_follow_up": [
+      {
+        "name": "霄雲迅擊",
+        "description": "快速突進並發動攻擊，造成玄墨傷害。\n\n招式發動期間擁有無敵效果。"
+      }
+    ],
+    "special_attack": [
+      {
+        "name": "燼影訣",
+        "description": "快速後撤後向前方發動攻擊，造成玄墨傷害。\n\n後撤期間可觸發極限閃避效果，但不能銜接閃避反擊。\n\n招式發動期間抗打斷等級提升。"
+      }
+    ],
+    "ex_special_attack": [
+      {
+        "name": "墨痕化形",
+        "description": "閃能足夠時，點按或長按[特殊技]發動：\n\n持續蓄力，鬆開[特殊技]時發動翅膀上挑攻擊，造成大量玄墨傷害。\n\n蓄力期間，若受到敵人攻擊，則可自動格擋並觸發翅膀上挑攻擊。\n\n蓄力開始瞬間受到敵人攻擊時，可觸發完美格擋效果，免疫該次傷害，提高招式的打斷等級至與重招架支援一致，回復10點閃能。\n\n翅膀上挑攻擊命中出現紅色閃光或黃色閃光的敵人時，也可觸發完美格擋效果，免疫該次傷害，提高招式的打斷等級至與重招架支援一致，回復10點閃能。\n\n完美格擋效果每0.5秒最多觸發一次。\n\n若蓄力至閃光或觸發完美格擋效果，則翅膀上挑攻擊後可額外追加符籙攻擊。\n\n招式發動後，可點按[特殊技]發動[強化特殊技：霄雲迅擊-破]。\n\n發動[強化特殊技：霄雲迅擊-破]後，若閃能足夠，可點按[特殊技]額外消耗20點閃能發動[強化特殊技：青溟震擊-破]。\n\n[強化特殊技：青溟震擊-破]發動後，若[玄墨值]足夠，長按[閃避]可快速銜接[普通攻擊：玄墨極陣]。\n\n翅膀上挑攻擊時擁有無敵效果，蓄力期間抗打斷等級提升。"
+      },
+      {
+        "name": "凝雲術",
+        "description": "閃能足夠時，長按[普通攻擊]發動：\n\n持續蓄力，在敵人身邊引導能量匯聚，持續造成傷害，最多持續2秒，造成大量玄墨傷害。\n\n蓄力至最長時間或提前中斷後，自動釋放[強化特殊技：墨燼影消]。\n\n招式發動瞬間可觸發極限閃避，觸發極限閃避後可進入極限視域。\n\n招式發動期間擁有無敵效果。"
+      },
+      {
+        "name": "墨燼影消",
+        "description": "[強化特殊技：凝雲術]過程中自動發動：\n\n能量球出現與收縮時，均會造成玄墨傷害。\n\n招式發動期間擁有無敵效果。"
+      }
+    ],
+    "chain_attack": [
+      {
+        "name": "玄墨迅擊",
+        "description": "快速突進向前發動攻擊，隨後進行展翅爆炸，造成大量玄墨傷害。\n\n招式發動期間擁有無敵效果。"
+      }
+    ],
+    "ultimate": [
+      {
+        "name": "青溟雲影",
+        "description": "持續發動羽翼攻擊，隨後引導萬千符籙攻擊，造成大量玄墨傷害。\n\n釋放招式時，儀玄會平均分配隊伍中角色的生命值。\n\n招式發動後，若[玄墨值]足夠，長按[閃避]可快速銜接[普通攻擊：玄墨極陣]。\n\n招式發動期間擁有無敵效果。"
+      },
+      {
+        "name": "符法千重",
+        "description": "[術法值]足夠時，點按[終結技]發動：\n\n消耗120點[術法值]，張開羽翼，隨後引導萬千符籙進行攻擊，造成大量玄墨傷害。\n\n[術法值]與[喧響值]同時足夠時，優先釋放該招式。\n\n招式發動後，若[玄墨值]足夠，長按[閃避]可快速銜接[普通攻擊：玄墨極陣]。\n\n釋放招式時，儀玄會平均分配隊伍中角色的生命值。\n\n招式發動期間擁有無敵效果。"
+      }
+    ],
+    "core_passive": [
+      {
+        "name": "術法宗師",
+        "description": "儀玄會額外根據自身最大生命值提高貫穿力，每1點最大生命值將提高0.1點貫穿力。\n\n儀玄發動招式造成的玄墨傷害均為貫穿傷害，無視敵人防禦，使用貫穿力作為招式傷害倍率。\n\n儀玄累積玄墨異常積蓄值時，具有獨立的屬性異常積蓄槽，觸發屬性異常效果時，額外回復10點閃能，每10秒最多觸發一次。\n\n儀玄進入戰鬥時即可恢復全部閃能，在勘域模式中此效果180秒內最多觸發一次，觸發極限閃避時額外回復5點閃能，每1秒最多觸發一次。\n\n消耗閃能時，儀玄會積累[術法值]，每消耗一點閃能，積累0.667點[術法值]，[術法值]足夠時，可額外釋放終結技：[終結技：符法千重]，[術法值]上限為120點。\n\n儀玄施展[普通攻擊：玄墨極陣]、[普通攻擊：青溟震擊]、[強化特殊技]、[支援突擊]、[連攜技]、[終結技]造成的傷害提升30%。\n\n釋放[終結技：符法千重]後，儀玄獲得一點[玄墨值]，儀玄可消耗一點[玄墨值]，釋放[普通攻擊：玄墨極陣]。"
+      }
+    ],
+    "additional_ability": [
+      {
+        "name": "玄墨暗湧",
+        "description": "隊伍中包含[擊破]角色或[支援]角色或[防護]角色時觸發：\n\n隊友釋放終結技時，儀玄持續回復2點閃能，持續10秒。\n\n儀玄被極限支援換下場時，儀玄會自動追加一道落雷，造成等同於儀玄225%貫穿力的傷害並額外回復5點閃能。\n\n[強化特殊技：凝雲術]與[強化特殊技：墨燼影消]命中處於失衡狀態下的敵人時，傷害提升60%。\n\n發動[終結技]後，儀玄進入[凝神]狀態，[凝神]狀態下，儀玄的暴擊傷害提升40%，持續15秒。"
+      }
+    ]
+  },
+  "mindscape_cinema": [
+    {
+      "name": "清靈道心",
+      "description": "進入戰場時，暴擊率提升10%，\n\n立即獲得120點[術法值]，在勘域模式中此效果180秒內最多觸發一次。\n\n隊伍中任意角色命中敵人時，儀玄會自動追加一道落雷， 造成等同於儀玄50%貫穿力的傷害並額外回復5點閃能，6秒內最多追加一次落雷。"
+    },
+    {
+      "name": "消災渡厄",
+      "description": "[終結技]或[強化特殊技]造成傷害時，\n\n無視目標15%以太傷害抗性。\n\n發動[終結技：青溟雲影]時，使所有處於失衡狀態的敵人失衡持續時間提升3秒， 敵人在一次失衡期間內只會受到一次該效果，且同類效果不可疊加。\n\n此外，發動[終結技：符法千重]時，獲得一層[聚墨]效果， 發動[普通攻擊：青溟震擊]、[強化特殊技：墨燼影消]後點按普通攻擊鍵， 發動[強化特殊技：青溟震擊-破]後點按特殊技鍵， 可消耗一層[聚墨]發動[強化特殊技：符法千重-破]，最多造成等同於1200%貫穿力的傷害， [聚墨]效果最多維持一層。"
+    },
+    {
+      "name": "陰陽相生",
+      "description": "[普通攻擊]、[閃避]、[支援技]、[特殊技]、[連攜技]技能等級+2"
+    },
+    {
+      "name": "術道歸一",
+      "description": "發動[終結技]時，獲得一層[靜心]效果，最多擁有2層。\n\n每有一層[靜心]效果， 下一次[強化特殊技：凝雲術]和[強化特殊技：墨燼影消]造成的傷害提升30%。"
+    },
+    {
+      "name": "靜觀流雲",
+      "description": "[普通攻擊]、[閃避]、[支援技]、[特殊技]、[連攜技]技能等級+2"
+    },
+    {
+      "name": "動靜相宜",
+      "description": "發動[終結技：青溟雲影]後，獲得一層[調息]效果， [調息]狀態下，可無視[術法值]發動一次[終結技：符法千重]， 發動[終結技：符法千重]後[調息]狀態結束，該效果每30秒最多獲得一次， [調息]效果最多維持一層。\n\n此外，[凝神]狀態下，儀玄的貫穿傷害提高20%。"
+    }
+  ],
+  "level_material": {
+    "skill_ten": [
+      {
+        "id": 1,
+        "amount": 2467500
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 69,
+        "amount": 4
+      },
+      {
+        "id": 70,
+        "amount": 32
+      },
+      {
+        "id": 71,
+        "amount": 30
+      },
+      {
+        "id": 65,
+        "amount": 25
+      },
+      {
+        "id": 66,
+        "amount": 75
+      },
+      {
+        "id": 67,
+        "amount": 115
+      },
+      {
+        "id": 159,
+        "amount": 60
+      },
+      {
+        "id": 105,
+        "amount": 9
+      }
+    ],
+    "skill_max": [
+      {
+        "id": 1,
+        "amount": 3705000
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 69,
+        "amount": 4
+      },
+      {
+        "id": 70,
+        "amount": 32
+      },
+      {
+        "id": 71,
+        "amount": 30
+      },
+      {
+        "id": 65,
+        "amount": 25
+      },
+      {
+        "id": 66,
+        "amount": 75
+      },
+      {
+        "id": 67,
+        "amount": 250
+      },
+      {
+        "id": 68,
+        "amount": 5
+      },
+      {
+        "id": 159,
+        "amount": 60
+      },
+      {
+        "id": 105,
+        "amount": 9
+      }
+    ]
+  },
+  "suggest_w_engines": [
+    {
+      "id": 65,
+      "rarity": 5
+    }
+  ],
+  "suggest_drives": [
+    {
+      "id": 19,
+      "suit": 4
+    }
+  ]
+}

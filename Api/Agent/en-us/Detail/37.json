@@ -1,0 +1,263 @@
+{
+  "id": 37,
+  "name": "Yixuan",
+  "full_name": "Yixuan",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "rupture",
+  "attribute": "ether",
+  "attack_type": "pierce",
+  "faction_id": 11,
+  "agent_background": "Yixuan is the 13th High Preceptor of Yunkui Summit and a Void Hunter-level investigator, officially recognized by Mayor Mayflower. She was once an orphan, wandering the world with her sister from a young age. Later, the then-High Preceptor of Yunkui Summit took them in, and they became disciples, learning the craft of Yunkui Summit. During this time, Yixuan demonstrated exceptional talent. No matter the technique, she would quickly master it, not only understanding it thoroughly but also creating her own unique techniques. The Qingming Bird was one of the special techniques she and her sister developed together, which helped her eliminate enemies and banish evil spirits in various difficult and dangerous situations.\n\nAfter becoming the sect's High Preceptor, she accepted an invitation from Mayor Mayflower and joined the Hollow Investigative Association as a partnered special investigator. After becoming High Preceptor, Yixuan took in many talented disciples to continue Yunkui Summit's lineage. However, her approach is rather casual, and often, even when teaching by example, her disciples can only guess her intentions... Yet, Yixuan isn't troubled by this, as she believes there's no standard answer to the so-called \"right path.\" What matters to her is that her disciples find their own \"right path.\" Of course, if they can understand and learn on their own, that's even better. As their Shifu, she simply lets things unfold naturally.",
+  "basic_data": {
+    "hp": 7953,
+    "atk": 872,
+    "def": 441,
+    "core_skill_enhancements": [
+      {
+        "name": "HP",
+        "value": "+420"
+      },
+      {
+        "name": "CRIT Rate",
+        "value": "+14.4%"
+      }
+    ]
+  },
+  "skills": {
+    "basic_attack": [
+      {
+        "name": "Cirrus Strike",
+        "description": "Perform up to five attacks forward, dealing Auric Ink DMG.\n\nThis skill's Anti-Interrupt Level increases during the 3rd and 4th hit."
+      },
+      {
+        "name": "Ink - Veil Cloud Coalescence",
+        "description": "Hold to activate:\n\nDeploy a Grand Tai Chi Formation, dealing Auric Ink DMG.\n\nWhen the skill ends, automatically launch the 5th hit of Basic Attack: Cirrus Strike.\n\nAnti-Interrupt level is increased while using this skill, and DMG received is reduced by 40%."
+      },
+      {
+        "name": "Auric Array",
+        "description": "While possessing Auric Ink Point, tap [Basic Attack] while Dodge: Nimbus Step is active or hold [Dodge] to activate:\n\nDeploy an array, continuously dealing Auric Ink DMG.\n\nWhen the skill ends, it automatically triggers Basic Attack: Qingming Eruption.\n\nWhile channeling, continuously recover Adrenaline, recovering 7/s, for up to 3s.\n\nCharacter is invulnerable while using this skill, and enters the Vital View state."
+      },
+      {
+        "name": "Qingming Eruption",
+        "description": "Automatically activates when Basic Attack: Auric Array reaches the max duration:\n\nSpreads her wings to launch an explosive attack, dealing massive Auric Ink DMG.\n\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "dodge": [
+      {
+        "name": "Hidden Cloud Technique",
+        "description": "A quick dash dodge.\n\nCharacter is invulnerable while using this skill."
+      },
+      {
+        "name": "Nimbus Step",
+        "description": "When dragging the joystick, hold Dodge to activate:\nEnter a high‐speed Light as Air state. While in the Light as Air state in Investigation Zone Mode, automatically collect from all resource pickup points within range.\nWhile in the Light as Air state, use the joystick to steer. Release the joystick to stop.\nCharacter is invulnerable at the moment this skill activates."
+      }
+    ],
+    "dash_attack": [
+      {
+        "name": "Skybreaker",
+        "description": "Launch a forward rush attack, dealing Auric Ink DMG."
+      }
+    ],
+    "dodge_counter": [
+      {
+        "name": "Banishing Blow",
+        "description": "Launch a series of attacks on enemies ahead, dealing Auric Ink DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "quick_assist": [
+      {
+        "name": "Cloudstream Shadow",
+        "description": "Launch a series of attacks on enemies ahead, dealing Auric Ink DMG.\n\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "defensive_assist": [
+      {
+        "name": "Clear Sky Surge",
+        "description": "Parries the enemy's attack, dealing massive Daze.\n\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "assist_follow_up": [
+      {
+        "name": "Celestial Cloud Blitz",
+        "description": "Quickly dash forward and attack, dealing Auric Ink DMG.\n\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "special_attack": [
+      {
+        "name": "Shadow-Ignition",
+        "description": "Swiftly retreat, then attack forward, dealing Auric Ink DMG.\n\nWhile retreating, a Perfect Dodge can be triggered, but cannot be followed up with a Dodge Counter.\n\nAnti-Interrupt level is increased while using this skill."
+      }
+    ],
+    "ex_special_attack": [
+      {
+        "name": "Ink Manifestation",
+        "description": "With enough Adrenaline, press or hold [Special Attack] to activate:\n\nCharge continuously, and release [Special Attack] to launch an upward wing attack, dealing massive Auric Ink DMG.\n\nWhile charging, incoming attacks are automatically blocked and will activate the upward wing attack.\n\nIf hit at the exact moment charging begins, it triggers a Perfect Block effect, negating the DMG and increasing the skill's Interrupt Level to match a Heavy Defensive Assist, and recovering 10 Adrenaline.\n\nWhen an upward wing strike hits an enemy with a red flash or yellow flash, a Perfect Block can be triggered, negating the hit and increasing the skill's Interrupt Level to match a Defensive Assist and recovering 10 Adrenaline.\n\nThe Perfect Block effect can occur at most once every 0.5s. If charged until flashing or when triggering the Perfect Block effect, the upward wing attack can be followed by an additional Talisman Attack.\n\nAfter the skill, press [Special Attack] to launch EX Special Attack: Celestial Cloud Blitz - Break.\n\nAfter EX Special Attack: Celestial Cloud Blitz - Break, and with enough Adrenaline, press to consume another 20 Adrenaline to launch EX Special Attack: Qingming Eruption - Break.\n\nAfter using EX Special Attack: Qingming Eruption - Break and with enough Auric Ink Points, hold [Dodge] to quickly follow up with Basic Attack: Auric Array.\n\nCharacter is invulnerable during the upward wing attack, and Anti-Interrupt Level is increased while charging."
+      },
+      {
+        "name": "Cloud-Shaper",
+        "description": "Continuously charge up, channeling energy around enemies to deal DMG over time, up to a max of 2s, dealing massive Auric Ink DMG.\n\nOnce fully charged or if interrupted, automatically trigger EX Special Attack: Ashen Ink Becomes Shadows.\n\nAt the moment the skill is activated, a Perfect Dodge can be triggered. After the Perfect Dodge, enter the Vital View state.\n\nCharacter is invulnerable while using this skill."
+      },
+      {
+        "name": "Ashen Ink Becomes Shadows",
+        "description": "Triggers automatically during EX Special Attack: Cloud-Shaper:\n\nWhen the energy orb appears and contracts, it deals Auric Ink DMG.\n\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "chain_attack": [
+      {
+        "name": "Auric Ink Rush",
+        "description": "Rapidly dash forward and attack, followed by an explosive wing burst, dealing massive Auric Ink DMG.\n\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "ultimate": [
+      {
+        "name": "Qingming Skyshade",
+        "description": "Launch a barrage of wing attacks, then guide countless talismans to attack, dealing massive Auric Ink DMG.\n\nUpon activating this skill, Yixuan evenly redistributes the squad's HP.\n\nAfter using this skill and with enough Auric Ink Points, hold [Dash] to quickly follow up with Basic Attack: Auric Array.\n\nCharacter is invulnerable while using this skill."
+      },
+      {
+        "name": "Endless Talisman Suppression",
+        "description": "With enough Technique Points, press [Ultimate] to activate:\n\nConsumes 120 Technique Points to spread her wings, then guide countless talismans to attack, dealing massive Auric Ink DMG.\n\nWith both enough Technique Points and Decibels, this skill triggers with priority.\n\nAfter using this skill and with enough Auric Ink Points, hold [Dash] to quickly follow up with Basic Attack: Auric Array.\n\nUpon activating this skill, Yixuan evenly redistributes the squad's HP.\n\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "core_passive": [
+      {
+        "name": "Grandmaster of Mysticism",
+        "description": "Yixuan gains extra Sheer Force based on her Max HP, with every 1 point of Max HP increasing Sheer Force by 0.1.\n\nAll Auric Ink DMG Yixuan deals via her skills is Sheer DMG, ignoring enemy DEF and using her Sheer Force stat as the DMG Multiplier.\n\nWhen Yixuan accumulates Auric Ink Anomaly Buildup, it uses an independent Anomaly Buildup gauge, and when triggering an Anomaly, she restores an additional 10 Adrenaline. This can trigger once every 10s.\n\nUpon entering combat, Yixuan immediately restores all Adrenaline. In Investigation Zone Mode, this effect can only trigger once every 180s. Triggering a Perfect Dodge grants an additional 5 Adrenaline and can occur at most once per second.\n\nWhen she consumes Adrenaline, Yixuan accumulates Technique Points, gaining 0.667 points for each point of Adrenaline consumed.\n\nWith enough Technique Points, she can trigger an additional Ultimate: Endless Talisman Suppression. The maximum for Technique Points is 120.\n\nThe DMG dealt by Yixuan's Basic Attack: Auric Array, Basic Attack: Qingming Eruption, EX Special Attack, Assist Follow-Up, Chain Attack, and Ultimate increases by 60%.\n\nAfter launching Ultimate: Endless Talisman Suppression, Yixuan gains one Auric Ink Point. She can spend an Auric Ink Point to launch Basic Attack: Auric Array.\n\n*Stats shown are at Base level."
+      }
+    ],
+    "additional_ability": [
+      {
+        "name": "Auric Ink Undercurrent",
+        "description": "When another character in your squad is a Stun, Support, or Defense character:\n\nWhen a fellow squad member uses an Ultimate, Yixuan continuously recovers 2 Adrenaline over 10s. If Yixuan is switched out by a Perfect Assist, she automatically follows up with a lightning strike attack, dealing DMG equal to 225% of her Sheer Force and restoring an additional 5 Adrenaline.\n\nEX Special Attack: Cloud-Shaper and EX Special Attack: Ashen Ink Becomes Shadows deal 60% increased DMG to Stunned enemies.\n\nAfter activating her Ultimate, Yixuan enters the Meditation state, increasing her CRIT DMG by 40% for 15s."
+      }
+    ]
+  },
+  "mindscape_cinema": [
+    {
+      "name": "Spiritual Path",
+      "description": "Upon entering combat, CRIT Rate increases by 10% and immediately gain 120 Technique Points. In Investigation Zone Mode, this effect can only trigger once every 180s.\n\nWhen any squad member lands a hit on an enemy, Yixuan automatically summons an extra lightning strike, dealing DMG equal to 50% of her Sheer Force and restoring 5 additional Adrenaline. This can trigger once every 6s."
+    },
+    {
+      "name": "Ward Off Misfortune",
+      "description": "When an Ultimate or EX Special Attack deals DMG, it ignores 15% of the target's Ether RES.\n\nTriggering Ultimate: Qingming Skyshade extends all enemies' Stunned state by 3s. In a single Stun state duration, enemies can only have this effect applied once, and it does not stack with similar effects.\n\nAdditionally, when using Ultimate: Endless Talisman Suppression, gain one stack of the Condensed Ink effect\n\nAfter Basic Attack: Qingming Eruption or EX Special Attack: Ashen Ink Becomes Shadows, press the Basic Attack button, or after EX Special Attack: Qingming Eruption - Break, press the Special Attack button to consume one stack of Condensed Ink and launch EX Special Attack: Endless Talisman Suppression - Break, dealing DMG up to 1,200% of Sheer Force.\n\nOnly one stack of Condensed Ink can be held at a time."
+    },
+    {
+      "name": "Cycle of Yin and Yang",
+      "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "The One Path of Mysticism",
+      "description": "Activating an Ultimate grants one stack of Tranquility, up to a max of 2 stacks.\n\nFor each stack of Tranquility, the next EX Special Attack: Cloud-Shaper DMG and EX Special Attack: Ashen Ink Becomes Shadows DMG increase by 30%."
+    },
+    {
+      "name": "Calm Sky Vigil",
+      "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Swift Yet Still",
+      "description": "After using Ultimate: Qingming Skyshade, gain a stack of the Regulated Breathing effect. While under this effect, you can ignore the Technique Point cost to launch Ultimate: Endless Talisman Suppression once. The Regulated Breathing effect ends after Ultimate: Endless Talisman Suppression is used. This effect can only be gained once every 30s.\n\nOnly one stack of Regulated Breathing can be held.\n\nAdditionally, while in the Meditation state, Yixuan's Sheer DMG is increased by 20%."
+    }
+  ],
+  "level_material": {
+    "skill_ten": [
+      {
+        "id": 1,
+        "amount": 2467500
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 69,
+        "amount": 4
+      },
+      {
+        "id": 70,
+        "amount": 32
+      },
+      {
+        "id": 71,
+        "amount": 30
+      },
+      {
+        "id": 65,
+        "amount": 25
+      },
+      {
+        "id": 66,
+        "amount": 75
+      },
+      {
+        "id": 67,
+        "amount": 115
+      },
+      {
+        "id": 159,
+        "amount": 60
+      },
+      {
+        "id": 105,
+        "amount": 9
+      }
+    ],
+    "skill_max": [
+      {
+        "id": 1,
+        "amount": 3705000
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 69,
+        "amount": 4
+      },
+      {
+        "id": 70,
+        "amount": 32
+      },
+      {
+        "id": 71,
+        "amount": 30
+      },
+      {
+        "id": 65,
+        "amount": 25
+      },
+      {
+        "id": 66,
+        "amount": 75
+      },
+      {
+        "id": 67,
+        "amount": 250
+      },
+      {
+        "id": 68,
+        "amount": 5
+      },
+      {
+        "id": 159,
+        "amount": 60
+      },
+      {
+        "id": 105,
+        "amount": 9
+      }
+    ]
+  },
+  "suggest_w_engines": [
+    {
+      "id": 65,
+      "rarity": 5
+    }
+  ],
+  "suggest_drives": [
+    {
+      "id": 19,
+      "suit": 4
+    }
+  ]
+}

@@ -440,6 +440,27 @@
       "is_leak": false,
       "rarity": 5,
       "specialty": "attack"
+    },
+    {
+      "id": 64,
+      "name": "震元奇樞",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "defense"
+    },
+    {
+      "id": 65,
+      "name": "青溟籠舍",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "rupture"
+    },
+    {
+      "id": 66,
+      "name": "福虓爐爐",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "stun"
     }
   ]
 }
