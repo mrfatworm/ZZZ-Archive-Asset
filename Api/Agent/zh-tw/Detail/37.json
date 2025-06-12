@@ -15,11 +15,11 @@
     "def": 441,
     "core_skill_enhancements": [
       {
-        "name": "HP",
+        "name": "生命值",
         "value": "+420"
       },
       {
-        "name": "CRIT Rate",
+        "name": "暴擊率",
         "value": "+14.4%"
       }
     ]
