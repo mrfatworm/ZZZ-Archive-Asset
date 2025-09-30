@@ -432,13 +432,46 @@
     {
       "id": 42,
       "name": "奧菲絲",
-      "is_highlight": true,
+      "is_highlight": false,
       "rarity": 5,
       "specialty": "attack",
       "attribute": "fire",
       "faction_id": 4,
       "material": 159,
       "weekly_material": 103
+    },
+    {
+      "id": 43,
+      "name": "柏野真斗",
+      "is_highlight": true,
+      "rarity": 4,
+      "specialty": "rupture",
+      "attribute": "fire",
+      "faction_id": 12,
+      "material": 161,
+      "weekly_material": 106
+    },
+    {
+      "id": 44,
+      "name": "盧西婭",
+      "is_highlight": true,
+      "rarity": 5,
+      "specialty": "support",
+      "attribute": "ether",
+      "faction_id": 12,
+      "material": 161,
+      "weekly_material": 106
+    },
+    {
+      "id": 45,
+      "name": "伊德海莉",
+      "is_highlight": true,
+      "rarity": 5,
+      "specialty": "rupture",
+      "attribute": "ice",
+      "faction_id": 12,
+      "material": 161,
+      "weekly_material": 106
     }
   ]
 }
