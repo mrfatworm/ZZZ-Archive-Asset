@@ -421,7 +421,7 @@
     {
       "id": 41,
       "name": "席德",
-      "is_highlight": true,
+      "is_highlight": false,
       "rarity": 5,
       "specialty": "attack",
       "attribute": "electric",
