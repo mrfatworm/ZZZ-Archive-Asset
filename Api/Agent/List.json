@@ -443,7 +443,7 @@
     {
       "id": 43,
       "name": "柏野真斗",
-      "is_highlight": true,
+      "is_highlight": false,
       "rarity": 4,
       "specialty": "rupture",
       "attribute": "fire",
@@ -454,7 +454,7 @@
     {
       "id": 44,
       "name": "盧西婭",
-      "is_highlight": true,
+      "is_highlight": false,
       "rarity": 5,
       "specialty": "support",
       "attribute": "ether",
@@ -465,13 +465,35 @@
     {
       "id": 45,
       "name": "伊德海莉",
-      "is_highlight": true,
+      "is_highlight": false,
       "rarity": 5,
       "specialty": "rupture",
       "attribute": "ice",
       "faction_id": 12,
       "material": 161,
       "weekly_material": 106
+    },
+    {
+      "id": 46,
+      "name": "般岳",
+      "is_highlight": true,
+      "rarity": 5,
+      "specialty": "rupture",
+      "attribute": "fire",
+      "faction_id": 13,
+      "material": 159,
+      "weekly_material": 106
+    },
+    {
+      "id": 47,
+      "name": "琉音",
+      "is_highlight": true,
+      "rarity": 5,
+      "specialty": "stun",
+      "attribute": "physical",
+      "faction_id": 13,
+      "material": 156,
+      "weekly_material": 105
     }
   ]
 }
