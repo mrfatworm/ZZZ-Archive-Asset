@@ -476,7 +476,7 @@
     {
       "id": 46,
       "name": "般岳",
-      "is_highlight": true,
+      "is_highlight": false,
       "rarity": 5,
       "specialty": "rupture",
       "attribute": "fire",
@@ -487,12 +487,34 @@
     {
       "id": 47,
       "name": "琉音",
-      "is_highlight": true,
+      "is_highlight": false,
       "rarity": 5,
       "specialty": "stun",
       "attribute": "physical",
       "faction_id": 13,
       "material": 156,
+      "weekly_material": 105
+    },
+    {
+      "id": 48,
+      "name": "照",
+      "is_highlight": true,
+      "rarity": 5,
+      "specialty": "defense",
+      "attribute": "ice",
+      "faction_id": 13,
+      "material": 162,
+      "weekly_material": 107
+    },
+    {
+      "id": 49,
+      "name": "葉瞬光",
+      "is_highlight": true,
+      "rarity": 5,
+      "specialty": "attack",
+      "attribute": "physical",
+      "faction_id": 11,
+      "material": 159,
       "weekly_material": 105
     }
   ]
