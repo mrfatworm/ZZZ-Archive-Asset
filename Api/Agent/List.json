@@ -498,7 +498,7 @@
     {
       "id": 48,
       "name": "照",
-      "is_highlight": true,
+      "is_highlight": false,
       "rarity": 5,
       "specialty": "defense",
       "attribute": "ice",
@@ -509,12 +509,34 @@
     {
       "id": 49,
       "name": "葉瞬光",
-      "is_highlight": true,
+      "is_highlight": false,
       "rarity": 5,
       "specialty": "attack",
       "attribute": "physical",
       "faction_id": 11,
       "material": 162,
+      "weekly_material": 107
+    },
+    {
+      "id": 50,
+      "name": "千夏",
+      "is_highlight": true,
+      "rarity": 5,
+      "specialty": "support",
+      "attribute": "physical",
+      "faction_id": 14,
+      "material": 163,
+      "weekly_material": 107
+    },
+    {
+      "id": 51,
+      "name": "愛芮",
+      "is_highlight": true,
+      "rarity": 5,
+      "specialty": "anomaly",
+      "attribute": "ether",
+      "faction_id": 14,
+      "material": 155,
       "weekly_material": 107
     }
   ]
