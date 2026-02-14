@@ -9,7 +9,8 @@
       "attribute": "physical",
       "faction_id": 1,
       "material": 151,
-      "weekly_material": 100
+      "weekly_material": 100,
+      "portrait_count": 1
     },
     {
       "id": 4,
@@ -20,7 +21,8 @@
       "attribute": "electric",
       "faction_id": 1,
       "material": 150,
-      "weekly_material": 100
+      "weekly_material": 100,
+      "portrait_count": 1
     },
     {
       "id": 5,
@@ -31,7 +33,8 @@
       "attribute": "physical",
       "faction_id": 1,
       "material": 152,
-      "weekly_material": 100
+      "weekly_material": 100,
+      "portrait_count": 1
     },
     {
       "id": 6,
@@ -42,7 +45,8 @@
       "attribute": "ether",
       "faction_id": 1,
       "material": 150,
-      "weekly_material": 100
+      "weekly_material": 100,
+      "portrait_count": 2
     },
     {
       "id": 7,
@@ -53,7 +57,8 @@
       "attribute": "electric",
       "faction_id": 3,
       "material": 154,
-      "weekly_material": 101
+      "weekly_material": 101,
+      "portrait_count": 1
     },
     {
       "id": 8,
@@ -64,7 +69,8 @@
       "attribute": "fire",
       "faction_id": 3,
       "material": 153,
-      "weekly_material": 101
+      "weekly_material": 101,
+      "portrait_count": 1
     },
     {
       "id": 9,
@@ -75,7 +81,8 @@
       "attribute": "electric",
       "faction_id": 3,
       "material": 154,
-      "weekly_material": 101
+      "weekly_material": 101,
+      "portrait_count": 1
     },
     {
       "id": 10,
@@ -86,7 +93,8 @@
       "attribute": "fire",
       "faction_id": 3,
       "material": 153,
-      "weekly_material": 101
+      "weekly_material": 101,
+      "portrait_count": 1
     },
     {
       "id": 11,
@@ -97,7 +105,8 @@
       "attribute": "fire",
       "faction_id": 4,
       "material": 154,
-      "weekly_material": 102
+      "weekly_material": 102,
+      "portrait_count": 1
     },
     {
       "id": 12,
@@ -108,7 +117,8 @@
       "attribute": "ether",
       "faction_id": 6,
       "material": 152,
-      "weekly_material": 101
+      "weekly_material": 101,
+      "portrait_count": 1
     },
     {
       "id": 13,
@@ -119,7 +129,8 @@
       "attribute": "electric",
       "faction_id": 2,
       "material": 154,
-      "weekly_material": 102
+      "weekly_material": 102,
+      "portrait_count": 1
     },
     {
       "id": 14,
@@ -130,7 +141,8 @@
       "attribute": "ice",
       "faction_id": 2,
       "material": 150,
-      "weekly_material": 100
+      "weekly_material": 100,
+      "portrait_count": 2
     },
     {
       "id": 15,
@@ -141,7 +153,8 @@
       "attribute": "ice",
       "faction_id": 2,
       "material": 152,
-      "weekly_material": 102
+      "weekly_material": 102,
+      "portrait_count": 1
     },
     {
       "id": 16,
@@ -152,7 +165,8 @@
       "attribute": "physical",
       "faction_id": 2,
       "material": 151,
-      "weekly_material": 102
+      "weekly_material": 102,
+      "portrait_count": 1
     },
     {
       "id": 17,
@@ -163,7 +177,8 @@
       "attribute": "ice",
       "faction_id": 5,
       "material": 150,
-      "weekly_material": 102
+      "weekly_material": 102,
+      "portrait_count": 1
     },
     {
       "id": 18,
@@ -174,7 +189,8 @@
       "attribute": "fire",
       "faction_id": 7,
       "material": 153,
-      "weekly_material": 100
+      "weekly_material": 100,
+      "portrait_count": 1
     },
     {
       "id": 19,
@@ -185,7 +201,8 @@
       "attribute": "physical",
       "faction_id": 7,
       "material": 151,
-      "weekly_material": 102
+      "weekly_material": 102,
+      "portrait_count": 1
     },
     {
       "id": 20,
@@ -196,7 +213,8 @@
       "attribute": "electric",
       "faction_id": 6,
       "material": 152,
-      "weekly_material": 101
+      "weekly_material": 101,
+      "portrait_count": 1
     },
     {
       "id": 21,
@@ -207,7 +225,8 @@
       "attribute": "physical",
       "faction_id": 6,
       "material": 154,
-      "weekly_material": 100
+      "weekly_material": 100,
+      "portrait_count": 2
     },
     {
       "id": 22,
@@ -218,7 +237,8 @@
       "attribute": "electric",
       "faction_id": 6,
       "material": 155,
-      "weekly_material": 101
+      "weekly_material": 101,
+      "portrait_count": 1
     },
     {
       "id": 23,
@@ -229,7 +249,8 @@
       "attribute": "physical",
       "faction_id": 7,
       "material": 156,
-      "weekly_material": 103
+      "weekly_material": 103,
+      "portrait_count": 1
     },
     {
       "id": 24,
@@ -240,7 +261,8 @@
       "attribute": "fire",
       "faction_id": 7,
       "material": 156,
-      "weekly_material": 103
+      "weekly_material": 103,
+      "portrait_count": 1
     },
     {
       "id": 25,
@@ -251,7 +273,8 @@
       "attribute": "electric",
       "faction_id": 5,
       "material": 154,
-      "weekly_material": 101
+      "weekly_material": 101,
+      "portrait_count": 1
     },
     {
       "id": 26,
@@ -262,7 +285,8 @@
       "attribute": "fire",
       "faction_id": 7,
       "material": 151,
-      "weekly_material": 103
+      "weekly_material": 103,
+      "portrait_count": 1
     },
     {
       "id": 27,
@@ -273,7 +297,8 @@
       "attribute": "electric",
       "faction_id": 5,
       "material": 157,
-      "weekly_material": 104
+      "weekly_material": 104,
+      "portrait_count": 1
     },
     {
       "id": 28,
@@ -284,7 +309,8 @@
       "attribute": "ice",
       "faction_id": 5,
       "material": 157,
-      "weekly_material": 104
+      "weekly_material": 104,
+      "portrait_count": 1
     },
     {
       "id": 29,
@@ -295,7 +321,8 @@
       "attribute": "ether",
       "faction_id": 8,
       "material": 157,
-      "weekly_material": 102
+      "weekly_material": 102,
+      "portrait_count": 2
     },
     {
       "id": 30,
@@ -306,7 +333,8 @@
       "attribute": "fire",
       "faction_id": 8,
       "material": 153,
-      "weekly_material": 103
+      "weekly_material": 103,
+      "portrait_count": 1
     },
     {
       "id": 31,
@@ -317,7 +345,8 @@
       "attribute": "physical",
       "faction_id": 7,
       "material": 156,
-      "weekly_material": 103
+      "weekly_material": 103,
+      "portrait_count": 1
     },
     {
       "id": 32,
@@ -328,7 +357,8 @@
       "attribute": "electric",
       "faction_id": 9,
       "material": 158,
-      "weekly_material": 101
+      "weekly_material": 101,
+      "portrait_count": 1
     },
     {
       "id": 33,
@@ -339,7 +369,8 @@
       "attribute": "electric",
       "faction_id": 4,
       "material": 158,
-      "weekly_material": 100
+      "weekly_material": 100,
+      "portrait_count": 1
     },
     {
       "id": 34,
@@ -350,7 +381,8 @@
       "attribute": "ether",
       "faction_id": 10,
       "material": 157,
-      "weekly_material": 104
+      "weekly_material": 104,
+      "portrait_count": 2
     },
     {
       "id": 35,
@@ -361,7 +393,8 @@
       "attribute": "ice",
       "faction_id": 10,
       "material": 150,
-      "weekly_material": 102
+      "weekly_material": 102,
+      "portrait_count": 1
     },
     {
       "id": 36,
@@ -372,7 +405,8 @@
       "attribute": "physical",
       "faction_id": 11,
       "material": 159,
-      "weekly_material": 105
+      "weekly_material": 105,
+      "portrait_count": 1
     },
     {
       "id": 37,
@@ -383,7 +417,8 @@
       "attribute": "ether",
       "faction_id": 11,
       "material": 159,
-      "weekly_material": 105
+      "weekly_material": 105,
+      "portrait_count": 2
     },
     {
       "id": 38,
@@ -394,7 +429,8 @@
       "attribute": "fire",
       "faction_id": 11,
       "material": 159,
-      "weekly_material": 105
+      "weekly_material": 105,
+      "portrait_count": 1
     },
     {
       "id": 39,
@@ -405,7 +441,8 @@
       "attribute": "physical",
       "faction_id": 12,
       "material": 160,
-      "weekly_material": 104
+      "weekly_material": 104,
+      "portrait_count": 2
     },
     {
       "id": 40,
@@ -416,7 +453,8 @@
       "attribute": "physical",
       "faction_id": 12,
       "material": 160,
-      "weekly_material": 104
+      "weekly_material": 104,
+      "portrait_count": 2
     },
     {
       "id": 41,
@@ -427,7 +465,8 @@
       "attribute": "electric",
       "faction_id": 4,
       "material": 158,
-      "weekly_material": 105
+      "weekly_material": 105,
+      "portrait_count": 1
     },
     {
       "id": 42,
@@ -438,7 +477,8 @@
       "attribute": "fire",
       "faction_id": 4,
       "material": 159,
-      "weekly_material": 103
+      "weekly_material": 103,
+      "portrait_count": 1
     },
     {
       "id": 43,
@@ -449,7 +489,8 @@
       "attribute": "fire",
       "faction_id": 12,
       "material": 161,
-      "weekly_material": 106
+      "weekly_material": 106,
+      "portrait_count": 2
     },
     {
       "id": 44,
@@ -460,7 +501,8 @@
       "attribute": "ether",
       "faction_id": 12,
       "material": 161,
-      "weekly_material": 106
+      "weekly_material": 106,
+      "portrait_count": 1
     },
     {
       "id": 45,
@@ -471,7 +513,8 @@
       "attribute": "ice",
       "faction_id": 12,
       "material": 161,
-      "weekly_material": 106
+      "weekly_material": 106,
+      "portrait_count": 1
     },
     {
       "id": 46,
@@ -482,7 +525,8 @@
       "attribute": "fire",
       "faction_id": 13,
       "material": 159,
-      "weekly_material": 106
+      "weekly_material": 106,
+      "portrait_count": 1
     },
     {
       "id": 47,
@@ -493,7 +537,8 @@
       "attribute": "physical",
       "faction_id": 13,
       "material": 156,
-      "weekly_material": 105
+      "weekly_material": 105,
+      "portrait_count": 1
     },
     {
       "id": 48,
@@ -504,7 +549,8 @@
       "attribute": "ice",
       "faction_id": 13,
       "material": 162,
-      "weekly_material": 107
+      "weekly_material": 107,
+      "portrait_count": 1
     },
     {
       "id": 49,
@@ -515,7 +561,8 @@
       "attribute": "physical",
       "faction_id": 11,
       "material": 162,
-      "weekly_material": 107
+      "weekly_material": 107,
+      "portrait_count": 2
     },
     {
       "id": 50,
@@ -526,7 +573,8 @@
       "attribute": "physical",
       "faction_id": 14,
       "material": 163,
-      "weekly_material": 107
+      "weekly_material": 107,
+      "portrait_count": 2
     },
     {
       "id": 51,
@@ -537,7 +585,8 @@
       "attribute": "ether",
       "faction_id": 14,
       "material": 155,
-      "weekly_material": 107
+      "weekly_material": 107,
+      "portrait_count": 2
     }
   ]
 }
