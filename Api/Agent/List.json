@@ -591,7 +591,7 @@
     {
       "id": 52,
       "name": "南宮羽",
-      "is_highlight": true,
+      "is_highlight": false,
       "rarity": 5,
       "specialty": "stun",
       "attribute": "ether",
@@ -603,7 +603,7 @@
     {
       "id": 53,
       "name": "希希芙",
-      "is_highlight": true,
+      "is_highlight": false,
       "rarity": 5,
       "specialty": "attack",
       "attribute": "electric",
@@ -611,6 +611,54 @@
       "material": 163,
       "weekly_material": 105,
       "portrait_count": 1
+    },
+    {
+      "id": 54,
+      "name": "普羅米婭",
+      "is_highlight": false,
+      "rarity": 5,
+      "specialty": "anomaly",
+      "attribute": "ice",
+      "faction_id": 13,
+      "material": 164,
+      "weekly_material": 108,
+      "portrait_count": 1
+    },
+    {
+      "id": 55,
+      "name": "星徽·比利",
+      "is_highlight": false,
+      "rarity": 5,
+      "specialty": "rupture",
+      "attribute": "physical",
+      "faction_id": 1,
+      "material": 163,
+      "weekly_material": 107,
+      "portrait_count": 1
+    },
+    {
+      "id": 56,
+      "name": "佩洛伊斯",
+      "is_highlight": false,
+      "rarity": 5,
+      "specialty": "attack",
+      "attribute": "ether",
+      "faction_id": 16,
+      "material": 165,
+      "weekly_material": 109,
+      "portrait_count": 1
+    },
+    {
+      "id": 57,
+      "name": "維琳娜",
+      "is_highlight": true,
+      "rarity": 5,
+      "specialty": "anomaly",
+      "attribute": "wind",
+      "faction_id": 17,
+      "material": 165,
+      "weekly_material": 109,
+      "portrait_count": 2
     }
   ]
 }
