@@ -651,13 +651,49 @@
     {
       "id": 57,
       "name": "維琳娜",
-      "is_highlight": true,
+      "is_highlight": false,
       "rarity": 5,
       "specialty": "anomaly",
       "attribute": "wind",
       "faction_id": 17,
       "material": 165,
       "weekly_material": 109,
+      "portrait_count": 2
+    },
+    {
+      "id": 58,
+      "name": "諾姆",
+      "is_highlight": false,
+      "rarity": 5,
+      "specialty": "stun",
+      "attribute": "fire",
+      "faction_id": 17,
+      "material": 165,
+      "weekly_material": 109,
+      "portrait_count": 1
+    },
+    {
+      "id": 59,
+      "name": "蕾米埃爾",
+      "is_highlight": true,
+      "rarity": 5,
+      "specialty": "anomaly",
+      "attribute": "lumiflux",
+      "faction_id": 18,
+      "material": 165,
+      "weekly_material": 109,
+      "portrait_count": 4
+    },
+    {
+      "id": 60,
+      "name": "希格莉德",
+      "is_highlight": true,
+      "rarity": 5,
+      "specialty": "attack",
+      "attribute": "ice",
+      "faction_id": 19,
+      "material": 161,
+      "weekly_material": 106,
       "portrait_count": 2
     }
   ]
