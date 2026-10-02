@@ -1,0 +1,50 @@
+name: Purge jsDelivr cache
+
+# The app reads this repo through cdn.jsdelivr.net/gh/mrfatworm/ZZZ-Archive-Asset@<branch>, which
+# caches a branch for 12 hours. Purging the files a push changed makes them visible right away.
+on:
+  push:
+    branches:
+      - main
+      - dev
+  workflow_dispatch:
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Purge changed files
+        env:
+          BEFORE: ${{ github.event.before }}
+          AFTER: ${{ github.sha }}
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          # A manual run, a new branch or a force push has no usable "before" commit, so fall back
+          # to the JSON under Api/: it is small, and it is what decides which images the app asks for.
+          if [ -n "$BEFORE" ] && git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
+            git diff --name-only --diff-filter=AMR "$BEFORE" "$AFTER" -- Api Asset > changed.txt
+          else
+            git ls-files Api > changed.txt
+          fi
+
+          echo "Purging $(wc -l < changed.txt) file(s) on @$BRANCH"
+          failed=0
+          while IFS= read -r file; do
+            encoded=$(python3 -c 'import sys, urllib.parse; print(urllib.parse.quote(sys.argv[1]))' "$file")
+            url="https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@${BRANCH}/${encoded}"
+            # jsDelivr answers 200 even when it throttles a purge, so read the body too.
+            if response=$(curl -sf --retry 3 "$url") \
+              && ! echo "$response" | grep -q '"throttled": *true'; then
+              echo "purged $file"
+            else
+              echo "::warning::failed to purge $file: $response"
+              failed=1
+            fi
+          done < changed.txt
+          exit $failed
