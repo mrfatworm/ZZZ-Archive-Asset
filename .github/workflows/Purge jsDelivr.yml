@@ -38,10 +38,12 @@ jobs:
           while IFS= read -r file; do
             encoded=$(python3 -c 'import sys, urllib.parse; print(urllib.parse.quote(sys.argv[1]))' "$file")
             url="https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@${BRANCH}/${encoded}"
-            if curl -sf --retry 3 "$url" > /dev/null; then
+            # jsDelivr answers 200 even when it throttles a purge, so read the body too.
+            if response=$(curl -sf --retry 3 "$url") \
+              && ! echo "$response" | grep -q '"throttled": *true'; then
               echo "purged $file"
             else
-              echo "::warning::failed to purge $file"
+              echo "::warning::failed to purge $file: $response"
               failed=1
             fi
           done < changed.txt
